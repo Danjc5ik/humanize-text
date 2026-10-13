@@ -1,0 +1,7 @@
+On March 21, 2016, astronauts on the International Space Station started testing Project Sidekick, an augmented-reality system that had been in the works since late 2015. The idea is simple. Mission control sees what the crew sees, and talks them through the job.
+
+Two astronauts tried it for about two hours in the first session. One of them, Tim Peake, said Sidekick builds a virtual-reality space right there on the station, so the people on the ground can more or less step into the crew's workspace and do the job with them. According to Peake, the VR world can "precisely pinpoint which switches to flip, screws to loosen, handles to turn," and it can even show them where things are kept.
+
+People at Johnson Space Center in Houston watched the live feed. Dr. Anya Sharma (she leads ISS operations) said watching the crew get through complex procedures with Sidekick's help was "nothing short of astonishing." She thinks it could change how much the crew can do on their own, because repairs up there are often the hard part.
+
+So far, so good. If the next tests go as well as the first one, Sidekick will be used more widely on long missions, mostly to make them safer and to save time.

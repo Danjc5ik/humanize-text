@@ -1,0 +1,2646 @@
+{
+"ru": [
+{
+"term": "такой как",
+"ai_docs": 1027,
+"human_docs": 198,
+"ratio": 5.18
+},
+{
+"term": "подчёркивать",
+"ai_docs": 663,
+"human_docs": 56,
+"ratio": 11.74
+},
+{
+"term": "важно",
+"ai_docs": 1071,
+"human_docs": 315,
+"ratio": 3.4
+},
+{
+"term": "несмотря",
+"ai_docs": 1154,
+"human_docs": 372,
+"ratio": 3.1
+},
+{
+"term": "ключевой",
+"ai_docs": 754,
+"human_docs": 146,
+"ratio": 5.15
+},
+{
+"term": "включая",
+"ai_docs": 878,
+"human_docs": 224,
+"ratio": 3.91
+},
+{
+"term": "важность",
+"ai_docs": 441,
+"human_docs": 47,
+"ratio": 9.29
+},
+{
+"term": "уникальный",
+"ai_docs": 529,
+"human_docs": 101,
+"ratio": 5.22
+},
+{
+"term": "не просто",
+"ai_docs": 569,
+"human_docs": 124,
+"ratio": 4.57
+},
+{
+"term": "мочь привести",
+"ai_docs": 436,
+"human_docs": 64,
+"ratio": 6.77
+},
+{
+"term": "это не просто",
+"ai_docs": 326,
+"human_docs": 17,
+"ratio": 18.66
+},
+{
+"term": "где каждый",
+"ai_docs": 289,
+"human_docs": 14,
+"ratio": 19.97
+},
+{
+"term": "может привести к",
+"ai_docs": 338,
+"human_docs": 42,
+"ratio": 7.96
+},
+{
+"term": "стремиться",
+"ai_docs": 558,
+"human_docs": 157,
+"ratio": 3.55
+},
+{
+"term": "вдохновлять",
+"ai_docs": 261,
+"human_docs": 13,
+"ratio": 19.37
+},
+{
+"term": "заключение",
+"ai_docs": 526,
+"human_docs": 150,
+"ratio": 3.5
+},
+{
+"term": "отражать",
+"ai_docs": 328,
+"human_docs": 56,
+"ratio": 5.81
+},
+{
+"term": "являться важный",
+"ai_docs": 226,
+"human_docs": 12,
+"ratio": 18.12
+},
+{
+"term": "демонстрировать",
+"ai_docs": 330,
+"human_docs": 59,
+"ratio": 5.55
+},
+{
+"term": "роль в",
+"ai_docs": 358,
+"human_docs": 74,
+"ratio": 4.81
+},
+{
+"term": "трудность",
+"ai_docs": 374,
+"human_docs": 84,
+"ratio": 4.43
+},
+{
+"term": "подчёркивать важность",
+"ai_docs": 178,
+"human_docs": 0,
+"ratio": 357.0
+},
+{
+"term": "аспект",
+"ai_docs": 330,
+"human_docs": 67,
+"ratio": 4.9
+},
+{
+"term": "сталкиваться",
+"ai_docs": 351,
+"human_docs": 79,
+"ratio": 4.42
+},
+{
+"term": "в заключение",
+"ai_docs": 235,
+"human_docs": 23,
+"ratio": 10.02
+},
+{
+"term": "сталкиваться с",
+"ai_docs": 285,
+"human_docs": 47,
+"ratio": 6.01
+},
+{
+"term": "мочь стать",
+"ai_docs": 366,
+"human_docs": 89,
+"ratio": 4.09
+},
+{
+"term": "важный шаг",
+"ai_docs": 181,
+"human_docs": 4,
+"ratio": 40.33
+},
+{
+"term": "последствие",
+"ai_docs": 458,
+"human_docs": 147,
+"ratio": 3.11
+},
+{
+"term": "стать настоящий",
+"ai_docs": 180,
+"human_docs": 7,
+"ratio": 24.07
+},
+{
+"term": "обеспечивать",
+"ai_docs": 407,
+"human_docs": 122,
+"ratio": 3.33
+},
+{
+"term": "свидетельствовать о",
+"ai_docs": 267,
+"human_docs": 46,
+"ratio": 5.75
+},
+{
+"term": "подчёркивать что",
+"ai_docs": 201,
+"human_docs": 17,
+"ratio": 11.51
+},
+{
+"term": "инструмент для",
+"ai_docs": 227,
+"human_docs": 29,
+"ratio": 7.71
+},
+{
+"term": "способствовать",
+"ai_docs": 408,
+"human_docs": 125,
+"ratio": 3.25
+},
+{
+"term": "столкнуться с",
+"ai_docs": 315,
+"human_docs": 78,
+"ratio": 4.02
+},
+{
+"term": "это не только",
+"ai_docs": 191,
+"human_docs": 17,
+"ratio": 10.94
+},
+{
+"term": "однако несмотря",
+"ai_docs": 141,
+"human_docs": 2,
+"ratio": 56.6
+},
+{
+"term": "однако несмотря на",
+"ai_docs": 141,
+"human_docs": 2,
+"ratio": 56.6
+},
+{
+"term": "важно отметить",
+"ai_docs": 150,
+"human_docs": 7,
+"ratio": 20.07
+},
+{
+"term": "стремление",
+"ai_docs": 267,
+"human_docs": 60,
+"ratio": 4.42
+},
+{
+"term": "внимание к",
+"ai_docs": 202,
+"human_docs": 29,
+"ratio": 6.86
+},
+{
+"term": "известный свой",
+"ai_docs": 188,
+"human_docs": 22,
+"ratio": 8.38
+},
+{
+"term": "являться один",
+"ai_docs": 267,
+"human_docs": 64,
+"ratio": 4.15
+},
+{
+"term": "незабываемый",
+"ai_docs": 183,
+"human_docs": 22,
+"ratio": 8.16
+},
+{
+"term": "показывать что",
+"ai_docs": 235,
+"human_docs": 49,
+"ratio": 4.76
+},
+{
+"term": "важно помнить",
+"ai_docs": 144,
+"human_docs": 8,
+"ratio": 17.0
+},
+{
+"term": "стремиться к",
+"ai_docs": 224,
+"human_docs": 45,
+"ratio": 4.93
+},
+{
+"term": "важно отметить что",
+"ai_docs": 137,
+"human_docs": 6,
+"ratio": 21.15
+},
+{
+"term": "вдохновение",
+"ai_docs": 233,
+"human_docs": 50,
+"ratio": 4.62
+},
+{
+"term": "стать важный",
+"ai_docs": 135,
+"human_docs": 6,
+"ratio": 20.85
+},
+{
+"term": "шаг в",
+"ai_docs": 194,
+"human_docs": 31,
+"ratio": 6.17
+},
+{
+"term": "возможность для",
+"ai_docs": 228,
+"human_docs": 49,
+"ratio": 4.62
+},
+{
+"term": "важный роль",
+"ai_docs": 168,
+"human_docs": 21,
+"ratio": 7.84
+},
+{
+"term": "играть важный",
+"ai_docs": 134,
+"human_docs": 7,
+"ratio": 17.93
+},
+{
+"term": "свидетельствовать",
+"ai_docs": 279,
+"human_docs": 83,
+"ratio": 3.35
+},
+{
+"term": "важно помнить что",
+"ai_docs": 117,
+"human_docs": 4,
+"ratio": 26.11
+},
+{
+"term": "стремление к",
+"ai_docs": 146,
+"human_docs": 16,
+"ratio": 8.88
+},
+{
+"term": "и улучшение",
+"ai_docs": 124,
+"human_docs": 7,
+"ratio": 16.6
+},
+{
+"term": "мир где",
+"ai_docs": 176,
+"human_docs": 29,
+"ratio": 5.98
+},
+{
+"term": "в развитие",
+"ai_docs": 197,
+"human_docs": 41,
+"ratio": 4.76
+},
+{
+"term": "важную роль в",
+"ai_docs": 138,
+"human_docs": 13,
+"ratio": 10.26
+},
+{
+"term": "разочарование",
+"ai_docs": 203,
+"human_docs": 44,
+"ratio": 4.57
+},
+{
+"term": "удобство",
+"ai_docs": 222,
+"human_docs": 55,
+"ratio": 4.01
+},
+{
+"term": "привлекательный",
+"ai_docs": 202,
+"human_docs": 45,
+"ratio": 4.45
+},
+{
+"term": "комфортный",
+"ai_docs": 284,
+"human_docs": 91,
+"ratio": 3.11
+},
+{
+"term": "навык",
+"ai_docs": 228,
+"human_docs": 60,
+"ratio": 3.78
+},
+{
+"term": "эффективность",
+"ai_docs": 273,
+"human_docs": 85,
+"ratio": 3.2
+},
+{
+"term": "укрепление",
+"ai_docs": 194,
+"human_docs": 43,
+"ratio": 4.47
+},
+{
+"term": "поделиться свой",
+"ai_docs": 149,
+"human_docs": 21,
+"ratio": 6.95
+},
+{
+"term": "что делает его",
+"ai_docs": 106,
+"human_docs": 3,
+"ratio": 30.43
+},
+{
+"term": "кто искать",
+"ai_docs": 119,
+"human_docs": 8,
+"ratio": 14.06
+},
+{
+"term": "гармония",
+"ai_docs": 186,
+"human_docs": 40,
+"ratio": 4.6
+},
+{
+"term": "ключевой роль",
+"ai_docs": 122,
+"human_docs": 10,
+"ratio": 11.67
+},
+{
+"term": "надёжный",
+"ai_docs": 269,
+"human_docs": 88,
+"ratio": 3.05
+},
+{
+"term": "инновация",
+"ai_docs": 140,
+"human_docs": 18,
+"ratio": 7.59
+},
+{
+"term": "является одним из",
+"ai_docs": 181,
+"human_docs": 39,
+"ratio": 4.59
+},
+{
+"term": "приключение",
+"ai_docs": 187,
+"human_docs": 42,
+"ratio": 4.41
+},
+{
+"term": "каждый шаг",
+"ai_docs": 116,
+"human_docs": 9,
+"ratio": 12.26
+},
+{
+"term": "исторический контекст",
+"ai_docs": 97,
+"human_docs": 2,
+"ratio": 39.0
+},
+{
+"term": "и поддержка",
+"ai_docs": 160,
+"human_docs": 29,
+"ratio": 5.44
+},
+{
+"term": "чтобы избежать",
+"ai_docs": 164,
+"human_docs": 32,
+"ratio": 5.06
+},
+{
+"term": "мочь иметь",
+"ai_docs": 144,
+"human_docs": 22,
+"ratio": 6.42
+},
+{
+"term": "это настоящий",
+"ai_docs": 133,
+"human_docs": 17,
+"ratio": 7.63
+},
+{
+"term": "царить",
+"ai_docs": 175,
+"human_docs": 38,
+"ratio": 4.56
+},
+{
+"term": "готовый помочь",
+"ai_docs": 121,
+"human_docs": 13,
+"ratio": 9.0
+},
+{
+"term": "одним из самых",
+"ai_docs": 190,
+"human_docs": 46,
+"ratio": 4.1
+},
+{
+"term": "предотвращение",
+"ai_docs": 156,
+"human_docs": 29,
+"ratio": 5.31
+},
+{
+"term": "заботиться о",
+"ai_docs": 146,
+"human_docs": 24,
+"ratio": 5.98
+},
+{
+"term": "привлекать",
+"ai_docs": 245,
+"human_docs": 78,
+"ratio": 3.13
+},
+{
+"term": "значимый",
+"ai_docs": 203,
+"human_docs": 53,
+"ratio": 3.8
+},
+{
+"term": "и безопасность",
+"ai_docs": 136,
+"human_docs": 19,
+"ratio": 7.0
+},
+{
+"term": "из ключевой",
+"ai_docs": 119,
+"human_docs": 13,
+"ratio": 8.85
+},
+{
+"term": "последствие для",
+"ai_docs": 120,
+"human_docs": 13,
+"ratio": 8.93
+},
+{
+"term": "привлечь внимание",
+"ai_docs": 137,
+"human_docs": 21,
+"ratio": 6.4
+},
+{
+"term": "обеспечение безопасность",
+"ai_docs": 118,
+"human_docs": 12,
+"ratio": 9.48
+},
+{
+"term": "инновационный",
+"ai_docs": 154,
+"human_docs": 29,
+"ratio": 5.24
+},
+{
+"term": "включает в себя",
+"ai_docs": 142,
+"human_docs": 24,
+"ratio": 5.82
+},
+{
+"term": "основный мысль",
+"ai_docs": 85,
+"human_docs": 0,
+"ratio": 171.0
+},
+{
+"term": "стать один",
+"ai_docs": 177,
+"human_docs": 42,
+"ratio": 4.18
+},
+{
+"term": "след в",
+"ai_docs": 106,
+"human_docs": 9,
+"ratio": 11.21
+},
+{
+"term": "стать символ",
+"ai_docs": 104,
+"human_docs": 8,
+"ratio": 12.29
+},
+{
+"term": "уют",
+"ai_docs": 182,
+"human_docs": 45,
+"ratio": 4.01
+},
+{
+"term": "ключевую роль в",
+"ai_docs": 102,
+"human_docs": 8,
+"ratio": 12.06
+},
+{
+"term": "напоминание о",
+"ai_docs": 115,
+"human_docs": 13,
+"ratio": 8.56
+},
+{
+"term": "захватывать",
+"ai_docs": 134,
+"human_docs": 22,
+"ratio": 5.98
+},
+{
+"term": "рекомендоваться",
+"ai_docs": 180,
+"human_docs": 46,
+"ratio": 3.88
+},
+{
+"term": "быть связать",
+"ai_docs": 161,
+"human_docs": 37,
+"ratio": 4.31
+},
+{
+"term": "играть ключевой",
+"ai_docs": 91,
+"human_docs": 5,
+"ratio": 16.64
+},
+{
+"term": "наследие",
+"ai_docs": 165,
+"human_docs": 40,
+"ratio": 4.09
+},
+{
+"term": "привлекать внимание",
+"ai_docs": 89,
+"human_docs": 4,
+"ratio": 19.89
+},
+{
+"term": "и комфорт",
+"ai_docs": 93,
+"human_docs": 6,
+"ratio": 14.38
+},
+{
+"term": "эмоциональный",
+"ai_docs": 174,
+"human_docs": 45,
+"ratio": 3.84
+},
+{
+"term": "новый горизонт",
+"ai_docs": 77,
+"human_docs": 0,
+"ratio": 155.0
+},
+{
+"term": "спокойствие",
+"ai_docs": 169,
+"human_docs": 43,
+"ratio": 3.9
+},
+{
+"term": "адаптироваться",
+"ai_docs": 94,
+"human_docs": 7,
+"ratio": 12.6
+},
+{
+"term": "иметь свой",
+"ai_docs": 163,
+"human_docs": 40,
+"ratio": 4.04
+},
+{
+"term": "несмотря на все",
+"ai_docs": 111,
+"human_docs": 14,
+"ratio": 7.69
+},
+{
+"term": "ключ к",
+"ai_docs": 111,
+"human_docs": 14,
+"ratio": 7.69
+},
+{
+"term": "опыт и",
+"ai_docs": 144,
+"human_docs": 30,
+"ratio": 4.74
+},
+{
+"term": "предотвратить",
+"ai_docs": 195,
+"human_docs": 59,
+"ratio": 3.29
+},
+{
+"term": "могут привести к",
+"ai_docs": 92,
+"human_docs": 7,
+"ratio": 12.33
+},
+{
+"term": "неотъемлемый часть",
+"ai_docs": 102,
+"human_docs": 11,
+"ratio": 8.91
+},
+{
+"term": "важным шагом в",
+"ai_docs": 73,
+"human_docs": 0,
+"ratio": 147.0
+},
+{
+"term": "это событие",
+"ai_docs": 120,
+"human_docs": 19,
+"ratio": 6.18
+},
+{
+"term": "стабильность и",
+"ai_docs": 99,
+"human_docs": 10,
+"ratio": 9.48
+},
+{
+"term": "о важность",
+"ai_docs": 77,
+"human_docs": 2,
+"ratio": 31.0
+},
+{
+"term": "чтобы обеспечить",
+"ai_docs": 106,
+"human_docs": 14,
+"ratio": 7.34
+},
+{
+"term": "уникальный и",
+"ai_docs": 78,
+"human_docs": 3,
+"ratio": 22.43
+},
+{
+"term": "комфорт и",
+"ai_docs": 103,
+"human_docs": 13,
+"ratio": 7.67
+},
+{
+"term": "создавать ощущение",
+"ai_docs": 80,
+"human_docs": 4,
+"ratio": 17.89
+},
+{
+"term": "трудность и",
+"ai_docs": 95,
+"human_docs": 10,
+"ratio": 9.1
+},
+{
+"term": "забывать о",
+"ai_docs": 130,
+"human_docs": 27,
+"ratio": 4.75
+},
+{
+"term": "развитие и",
+"ai_docs": 116,
+"human_docs": 20,
+"ratio": 5.68
+},
+{
+"term": "и эффективный",
+"ai_docs": 114,
+"human_docs": 19,
+"ratio": 5.87
+},
+{
+"term": "кто ценить",
+"ai_docs": 70,
+"human_docs": 1,
+"ratio": 47.0
+},
+{
+"term": "разочаровать",
+"ai_docs": 150,
+"human_docs": 38,
+"ratio": 3.91
+},
+{
+"term": "неотъемлемый",
+"ai_docs": 112,
+"human_docs": 19,
+"ratio": 5.77
+},
+{
+"term": "заботиться",
+"ai_docs": 156,
+"human_docs": 41,
+"ratio": 3.77
+},
+{
+"term": "адаптироваться к",
+"ai_docs": 78,
+"human_docs": 4,
+"ratio": 17.44
+},
+{
+"term": "выразить свой",
+"ai_docs": 111,
+"human_docs": 18,
+"ratio": 6.03
+},
+{
+"term": "открывать новый",
+"ai_docs": 89,
+"human_docs": 9,
+"ratio": 9.42
+},
+{
+"term": "и культурный",
+"ai_docs": 93,
+"human_docs": 11,
+"ratio": 8.13
+},
+{
+"term": "тщательный",
+"ai_docs": 123,
+"human_docs": 25,
+"ratio": 4.84
+},
+{
+"term": "новый возможность",
+"ai_docs": 120,
+"human_docs": 23,
+"ratio": 5.13
+},
+{
+"term": "свой путь",
+"ai_docs": 123,
+"human_docs": 26,
+"ratio": 4.66
+},
+{
+"term": "и профессионализм",
+"ai_docs": 78,
+"human_docs": 5,
+"ratio": 14.27
+},
+{
+"term": "справедливость",
+"ai_docs": 177,
+"human_docs": 56,
+"ratio": 3.14
+},
+{
+"term": "свой уникальный",
+"ai_docs": 80,
+"human_docs": 6,
+"ratio": 12.38
+},
+{
+"term": "и обеспечить",
+"ai_docs": 113,
+"human_docs": 21,
+"ratio": 5.28
+},
+{
+"term": "забота о",
+"ai_docs": 115,
+"human_docs": 22,
+"ratio": 5.13
+},
+{
+"term": "сложный и",
+"ai_docs": 109,
+"human_docs": 19,
+"ratio": 5.62
+},
+{
+"term": "создавать атмосфера",
+"ai_docs": 66,
+"human_docs": 1,
+"ratio": 44.33
+},
+{
+"term": "для пользователь",
+"ai_docs": 112,
+"human_docs": 20,
+"ratio": 5.49
+},
+{
+"term": "напоминать о",
+"ai_docs": 107,
+"human_docs": 18,
+"ratio": 5.81
+},
+{
+"term": "это может привести",
+"ai_docs": 96,
+"human_docs": 13,
+"ratio": 7.15
+},
+{
+"term": "это позволять",
+"ai_docs": 105,
+"human_docs": 17,
+"ratio": 6.03
+},
+{
+"term": "выбор для",
+"ai_docs": 79,
+"human_docs": 6,
+"ratio": 12.23
+},
+{
+"term": "метафора",
+"ai_docs": 88,
+"human_docs": 10,
+"ratio": 8.43
+},
+{
+"term": "это свидетельствует о",
+"ai_docs": 68,
+"human_docs": 2,
+"ratio": 27.4
+},
+{
+"term": "преданность",
+"ai_docs": 84,
+"human_docs": 8,
+"ratio": 9.94
+},
+{
+"term": "горизонт",
+"ai_docs": 168,
+"human_docs": 52,
+"ratio": 3.21
+},
+{
+"term": "статистика показывать",
+"ai_docs": 63,
+"human_docs": 0,
+"ratio": 127.0
+},
+{
+"term": "если вы ищете",
+"ai_docs": 68,
+"human_docs": 2,
+"ratio": 27.4
+},
+{
+"term": "и повысить",
+"ai_docs": 80,
+"human_docs": 7,
+"ratio": 10.73
+},
+{
+"term": "пример тот",
+"ai_docs": 88,
+"human_docs": 11,
+"ratio": 7.7
+},
+{
+"term": "шептать",
+"ai_docs": 176,
+"human_docs": 58,
+"ratio": 3.02
+},
+{
+"term": "подчёркивать необходимость",
+"ai_docs": 63,
+"human_docs": 1,
+"ratio": 42.33
+},
+{
+"term": "знание и",
+"ai_docs": 116,
+"human_docs": 24,
+"ratio": 4.76
+},
+{
+"term": "стимулировать",
+"ai_docs": 124,
+"human_docs": 28,
+"ratio": 4.37
+},
+{
+"term": "значимость",
+"ai_docs": 110,
+"human_docs": 21,
+"ratio": 5.14
+},
+{
+"term": "для многий",
+"ai_docs": 125,
+"human_docs": 29,
+"ratio": 4.25
+},
+{
+"term": "разнообразие",
+"ai_docs": 164,
+"human_docs": 51,
+"ratio": 3.19
+},
+{
+"term": "баланс между",
+"ai_docs": 82,
+"human_docs": 8,
+"ratio": 9.71
+},
+{
+"term": "важный аспект",
+"ai_docs": 82,
+"human_docs": 8,
+"ratio": 9.71
+},
+{
+"term": "статистика показывает что",
+"ai_docs": 61,
+"human_docs": 0,
+"ratio": 123.0
+},
+{
+"term": "широкий спектр",
+"ai_docs": 80,
+"human_docs": 7,
+"ratio": 10.73
+},
+{
+"term": "мысль статья",
+"ai_docs": 59,
+"human_docs": 0,
+"ratio": 119.0
+},
+{
+"term": "наполнять",
+"ai_docs": 104,
+"human_docs": 19,
+"ratio": 5.36
+},
+{
+"term": "решимость",
+"ai_docs": 94,
+"human_docs": 14,
+"ratio": 6.52
+},
+{
+"term": "стать более",
+"ai_docs": 118,
+"human_docs": 26,
+"ratio": 4.47
+},
+{
+"term": "ключевой слово",
+"ai_docs": 111,
+"human_docs": 22,
+"ratio": 4.96
+},
+{
+"term": "комфортный и",
+"ai_docs": 82,
+"human_docs": 9,
+"ratio": 8.68
+},
+{
+"term": "всегда готовый",
+"ai_docs": 102,
+"human_docs": 18,
+"ratio": 5.54
+},
+{
+"term": "внимательный и",
+"ai_docs": 98,
+"human_docs": 16,
+"ratio": 5.97
+},
+{
+"term": "статья мы",
+"ai_docs": 67,
+"human_docs": 3,
+"ratio": 19.29
+},
+{
+"term": "и надежда",
+"ai_docs": 104,
+"human_docs": 19,
+"ratio": 5.36
+},
+{
+"term": "и уважение",
+"ai_docs": 94,
+"human_docs": 14,
+"ratio": 6.52
+},
+{
+"term": "поддержка и",
+"ai_docs": 109,
+"human_docs": 21,
+"ratio": 5.09
+},
+{
+"term": "который помогать",
+"ai_docs": 113,
+"human_docs": 23,
+"ratio": 4.83
+},
+{
+"term": "погрузиться в",
+"ai_docs": 105,
+"human_docs": 19,
+"ratio": 5.41
+},
+{
+"term": "улучшение качество",
+"ai_docs": 67,
+"human_docs": 3,
+"ratio": 19.29
+},
+{
+"term": "и культура",
+"ai_docs": 91,
+"human_docs": 13,
+"ratio": 6.78
+},
+{
+"term": "забота и",
+"ai_docs": 117,
+"human_docs": 25,
+"ratio": 4.61
+},
+{
+"term": "международный сообщество",
+"ai_docs": 76,
+"human_docs": 6,
+"ratio": 11.77
+},
+{
+"term": "способствовать развитие",
+"ai_docs": 70,
+"human_docs": 4,
+"ratio": 15.67
+},
+{
+"term": "доступность",
+"ai_docs": 154,
+"human_docs": 46,
+"ratio": 3.32
+},
+{
+"term": "подчеркнуть важность",
+"ai_docs": 63,
+"human_docs": 2,
+"ratio": 25.4
+},
+{
+"term": "погрузиться",
+"ai_docs": 111,
+"human_docs": 23,
+"ratio": 4.74
+},
+{
+"term": "невероятный",
+"ai_docs": 164,
+"human_docs": 53,
+"ratio": 3.07
+},
+{
+"term": "тех кто ищет",
+"ai_docs": 61,
+"human_docs": 1,
+"ratio": 41.0
+},
+{
+"term": "является важным шагом",
+"ai_docs": 57,
+"human_docs": 0,
+"ratio": 115.0
+},
+{
+"term": "шаг к",
+"ai_docs": 88,
+"human_docs": 12,
+"ratio": 7.08
+},
+{
+"term": "напоминание",
+"ai_docs": 130,
+"human_docs": 33,
+"ratio": 3.9
+},
+{
+"term": "найти свой",
+"ai_docs": 102,
+"human_docs": 19,
+"ratio": 5.26
+},
+{
+"term": "недовольство",
+"ai_docs": 147,
+"human_docs": 43,
+"ratio": 3.39
+},
+{
+"term": "навык и",
+"ai_docs": 71,
+"human_docs": 5,
+"ratio": 13.0
+},
+{
+"term": "напоминать мы",
+"ai_docs": 62,
+"human_docs": 2,
+"ratio": 25.0
+},
+{
+"term": "и создавать",
+"ai_docs": 97,
+"human_docs": 17,
+"ratio": 5.57
+},
+{
+"term": "благодаря свой",
+"ai_docs": 79,
+"human_docs": 9,
+"ratio": 8.37
+},
+{
+"term": "быть наполнить",
+"ai_docs": 69,
+"human_docs": 5,
+"ratio": 12.64
+},
+{
+"term": "надежда и",
+"ai_docs": 112,
+"human_docs": 25,
+"ratio": 4.41
+},
+{
+"term": "репутация",
+"ai_docs": 148,
+"human_docs": 45,
+"ratio": 3.26
+},
+{
+"term": "мочь повлиять",
+"ai_docs": 97,
+"human_docs": 17,
+"ratio": 5.57
+},
+{
+"term": "атмосфера и",
+"ai_docs": 95,
+"human_docs": 16,
+"ratio": 5.79
+},
+{
+"term": "благополучие",
+"ai_docs": 98,
+"human_docs": 18,
+"ratio": 5.32
+},
+{
+"term": "автор статья",
+"ai_docs": 70,
+"human_docs": 6,
+"ratio": 10.85
+},
+{
+"term": "стать часть",
+"ai_docs": 95,
+"human_docs": 17,
+"ratio": 5.46
+},
+{
+"term": "для достижение",
+"ai_docs": 106,
+"human_docs": 22,
+"ratio": 4.73
+},
+{
+"term": "это важный",
+"ai_docs": 86,
+"human_docs": 13,
+"ratio": 6.41
+}
+],
+"eng": [
+{
+"term": "significant",
+"ai_docs": 1697,
+"human_docs": 344,
+"ratio": 4.93
+},
+{
+"term": "potential",
+"ai_docs": 1404,
+"human_docs": 278,
+"ratio": 5.04
+},
+{
+"term": "testament to",
+"ai_docs": 748,
+"human_docs": 2,
+"ratio": 299.4
+},
+{
+"term": "testament",
+"ai_docs": 761,
+"human_docs": 18,
+"ratio": 41.16
+},
+{
+"term": "crucial",
+"ai_docs": 941,
+"human_docs": 93,
+"ratio": 10.07
+},
+{
+"term": "reminder",
+"ai_docs": 749,
+"human_docs": 22,
+"ratio": 33.31
+},
+{
+"term": "a testament",
+"ai_docs": 694,
+"human_docs": 2,
+"ratio": 277.8
+},
+{
+"term": "a testament to",
+"ai_docs": 688,
+"human_docs": 2,
+"ratio": 275.4
+},
+{
+"term": "a significant",
+"ai_docs": 877,
+"human_docs": 120,
+"ratio": 7.28
+},
+{
+"term": "highlights",
+"ai_docs": 689,
+"human_docs": 39,
+"ratio": 17.46
+},
+{
+"term": "profound",
+"ai_docs": 609,
+"human_docs": 25,
+"ratio": 23.9
+},
+{
+"term": "ensuring",
+"ai_docs": 647,
+"human_docs": 41,
+"ratio": 15.6
+},
+{
+"term": "particularly",
+"ai_docs": 943,
+"human_docs": 194,
+"ratio": 4.85
+},
+{
+"term": "underscores",
+"ai_docs": 512,
+"human_docs": 4,
+"ratio": 113.89
+},
+{
+"term": "testament to the",
+"ai_docs": 467,
+"human_docs": 2,
+"ratio": 187.0
+},
+{
+"term": "importance of",
+"ai_docs": 618,
+"human_docs": 63,
+"ratio": 9.74
+},
+{
+"term": "unique",
+"ai_docs": 803,
+"human_docs": 151,
+"ratio": 5.3
+},
+{
+"term": "importance",
+"ai_docs": 721,
+"human_docs": 111,
+"ratio": 6.47
+},
+{
+"term": "offering",
+"ai_docs": 702,
+"human_docs": 104,
+"ratio": 6.72
+},
+{
+"term": "the importance of",
+"ai_docs": 583,
+"human_docs": 58,
+"ratio": 9.97
+},
+{
+"term": "reminder of",
+"ai_docs": 462,
+"human_docs": 9,
+"ratio": 48.68
+},
+{
+"term": "the importance",
+"ai_docs": 586,
+"human_docs": 62,
+"ratio": 9.38
+},
+{
+"term": "highlights the",
+"ai_docs": 447,
+"human_docs": 10,
+"ratio": 42.62
+},
+{
+"term": "a reminder",
+"ai_docs": 430,
+"human_docs": 8,
+"ratio": 50.65
+},
+{
+"term": "resilience",
+"ai_docs": 428,
+"human_docs": 8,
+"ratio": 50.41
+},
+{
+"term": "remains",
+"ai_docs": 864,
+"human_docs": 216,
+"ratio": 3.99
+},
+{
+"term": "underscores the",
+"ai_docs": 383,
+"human_docs": 1,
+"ratio": 255.67
+},
+{
+"term": "not just",
+"ai_docs": 614,
+"human_docs": 105,
+"ratio": 5.82
+},
+{
+"term": "broader",
+"ai_docs": 435,
+"human_docs": 26,
+"ratio": 16.43
+},
+{
+"term": "the potential",
+"ai_docs": 508,
+"human_docs": 59,
+"ratio": 8.55
+},
+{
+"term": "landscape",
+"ai_docs": 488,
+"human_docs": 50,
+"ratio": 9.67
+},
+{
+"term": "serves",
+"ai_docs": 542,
+"human_docs": 76,
+"ratio": 7.09
+},
+{
+"term": "realm",
+"ai_docs": 423,
+"human_docs": 25,
+"ratio": 16.61
+},
+{
+"term": "highlighting",
+"ai_docs": 383,
+"human_docs": 13,
+"ratio": 28.41
+},
+{
+"term": "reminder of the",
+"ai_docs": 355,
+"human_docs": 3,
+"ratio": 101.57
+},
+{
+"term": "serves as a",
+"ai_docs": 407,
+"human_docs": 23,
+"ratio": 17.34
+},
+{
+"term": "in conclusion",
+"ai_docs": 358,
+"human_docs": 6,
+"ratio": 55.15
+},
+{
+"term": "diverse",
+"ai_docs": 561,
+"human_docs": 94,
+"ratio": 5.94
+},
+{
+"term": "serves as",
+"ai_docs": 467,
+"human_docs": 52,
+"ratio": 8.9
+},
+{
+"term": "enhance",
+"ai_docs": 484,
+"human_docs": 63,
+"ratio": 7.63
+},
+{
+"term": "tapestry",
+"ai_docs": 340,
+"human_docs": 4,
+"ratio": 75.67
+},
+{
+"term": "commitment",
+"ai_docs": 463,
+"human_docs": 57,
+"ratio": 8.06
+},
+{
+"term": "implications",
+"ai_docs": 412,
+"human_docs": 40,
+"ratio": 10.19
+},
+{
+"term": "vibrant",
+"ai_docs": 346,
+"human_docs": 14,
+"ratio": 23.9
+},
+{
+"term": "innovative",
+"ai_docs": 384,
+"human_docs": 30,
+"ratio": 12.61
+},
+{
+"term": "conclusion",
+"ai_docs": 494,
+"human_docs": 78,
+"ratio": 6.3
+},
+{
+"term": "intricate",
+"ai_docs": 349,
+"human_docs": 17,
+"ratio": 19.97
+},
+{
+"term": "commitment to",
+"ai_docs": 382,
+"human_docs": 30,
+"ratio": 12.54
+},
+{
+"term": "leading to",
+"ai_docs": 519,
+"human_docs": 93,
+"ratio": 5.56
+},
+{
+"term": "insights",
+"ai_docs": 460,
+"human_docs": 67,
+"ratio": 6.82
+},
+{
+"term": "enduring",
+"ai_docs": 358,
+"human_docs": 23,
+"ratio": 15.26
+},
+{
+"term": "offering a",
+"ai_docs": 323,
+"human_docs": 10,
+"ratio": 30.81
+},
+{
+"term": "sense of",
+"ai_docs": 564,
+"human_docs": 125,
+"ratio": 4.5
+},
+{
+"term": "ultimately",
+"ai_docs": 528,
+"human_docs": 111,
+"ratio": 4.74
+},
+{
+"term": "ensure",
+"ai_docs": 595,
+"human_docs": 148,
+"ratio": 4.01
+},
+{
+"term": "the need for",
+"ai_docs": 386,
+"human_docs": 47,
+"ratio": 8.14
+},
+{
+"term": "realm of",
+"ai_docs": 289,
+"human_docs": 7,
+"ratio": 38.6
+},
+{
+"term": "a sense of",
+"ai_docs": 363,
+"human_docs": 38,
+"ratio": 9.44
+},
+{
+"term": "reminder that",
+"ai_docs": 280,
+"human_docs": 5,
+"ratio": 51.0
+},
+{
+"term": "additionally",
+"ai_docs": 474,
+"human_docs": 91,
+"ratio": 5.19
+},
+{
+"term": "need for",
+"ai_docs": 497,
+"human_docs": 103,
+"ratio": 4.81
+},
+{
+"term": "navigate",
+"ai_docs": 327,
+"human_docs": 25,
+"ratio": 12.84
+},
+{
+"term": "the need",
+"ai_docs": 464,
+"human_docs": 94,
+"ratio": 4.92
+},
+{
+"term": "a sense",
+"ai_docs": 370,
+"human_docs": 48,
+"ratio": 7.64
+},
+{
+"term": "offers a",
+"ai_docs": 341,
+"human_docs": 35,
+"ratio": 9.62
+},
+{
+"term": "stark",
+"ai_docs": 306,
+"human_docs": 21,
+"ratio": 14.26
+},
+{
+"term": "is crucial",
+"ai_docs": 315,
+"human_docs": 24,
+"ratio": 12.88
+},
+{
+"term": "enhancing",
+"ai_docs": 307,
+"human_docs": 23,
+"ratio": 13.09
+},
+{
+"term": "tapestry of",
+"ai_docs": 248,
+"human_docs": 1,
+"ratio": 165.67
+},
+{
+"term": "a beacon",
+"ai_docs": 246,
+"human_docs": 1,
+"ratio": 164.33
+},
+{
+"term": "enabling",
+"ai_docs": 353,
+"human_docs": 43,
+"ratio": 8.13
+},
+{
+"term": "beacon",
+"ai_docs": 268,
+"human_docs": 10,
+"ratio": 25.57
+},
+{
+"term": "fostering",
+"ai_docs": 262,
+"human_docs": 8,
+"ratio": 30.88
+},
+{
+"term": "reflecting",
+"ai_docs": 313,
+"human_docs": 29,
+"ratio": 10.63
+},
+{
+"term": "emphasizing",
+"ai_docs": 270,
+"human_docs": 12,
+"ratio": 21.64
+},
+{
+"term": "understanding of",
+"ai_docs": 412,
+"human_docs": 75,
+"ratio": 5.46
+},
+{
+"term": "this approach",
+"ai_docs": 349,
+"human_docs": 47,
+"ratio": 7.36
+},
+{
+"term": "deeper",
+"ai_docs": 390,
+"human_docs": 68,
+"ratio": 5.7
+},
+{
+"term": "comprehensive",
+"ai_docs": 414,
+"human_docs": 81,
+"ratio": 5.09
+},
+{
+"term": "a powerful",
+"ai_docs": 358,
+"human_docs": 55,
+"ratio": 6.46
+},
+{
+"term": "ongoing",
+"ai_docs": 404,
+"human_docs": 77,
+"ratio": 5.22
+},
+{
+"term": "fleeting",
+"ai_docs": 252,
+"human_docs": 10,
+"ratio": 24.05
+},
+{
+"term": "essence",
+"ai_docs": 286,
+"human_docs": 24,
+"ratio": 11.69
+},
+{
+"term": "prioritize",
+"ai_docs": 244,
+"human_docs": 9,
+"ratio": 25.74
+},
+{
+"term": "ensures",
+"ai_docs": 295,
+"human_docs": 29,
+"ratio": 10.02
+},
+{
+"term": "abstract",
+"ai_docs": 283,
+"human_docs": 24,
+"ratio": 11.57
+},
+{
+"term": "embrace",
+"ai_docs": 351,
+"human_docs": 54,
+"ratio": 6.45
+},
+{
+"term": "blend",
+"ai_docs": 282,
+"human_docs": 23,
+"ratio": 12.02
+},
+{
+"term": "relentless",
+"ai_docs": 252,
+"human_docs": 13,
+"ratio": 18.7
+},
+{
+"term": "a profound",
+"ai_docs": 235,
+"human_docs": 7,
+"ratio": 31.4
+},
+{
+"term": "the realm",
+"ai_docs": 245,
+"human_docs": 11,
+"ratio": 21.35
+},
+{
+"term": "pivotal",
+"ai_docs": 246,
+"human_docs": 12,
+"ratio": 19.72
+},
+{
+"term": "is a testament",
+"ai_docs": 217,
+"human_docs": 2,
+"ratio": 87.0
+},
+{
+"term": "complexities",
+"ai_docs": 235,
+"human_docs": 10,
+"ratio": 22.43
+},
+{
+"term": "a stark",
+"ai_docs": 215,
+"human_docs": 2,
+"ratio": 86.2
+},
+{
+"term": "strategic",
+"ai_docs": 312,
+"human_docs": 42,
+"ratio": 7.35
+},
+{
+"term": "lies",
+"ai_docs": 488,
+"human_docs": 133,
+"ratio": 3.66
+},
+{
+"term": "unwavering",
+"ai_docs": 205,
+"human_docs": 0,
+"ratio": 411.0
+},
+{
+"term": "the realm of",
+"ai_docs": 222,
+"human_docs": 6,
+"ratio": 34.23
+},
+{
+"term": "a crucial",
+"ai_docs": 262,
+"human_docs": 21,
+"ratio": 12.21
+},
+{
+"term": "a unique",
+"ai_docs": 304,
+"human_docs": 41,
+"ratio": 7.34
+},
+{
+"term": "secrets",
+"ai_docs": 292,
+"human_docs": 36,
+"ratio": 8.01
+},
+{
+"term": "presence",
+"ai_docs": 500,
+"human_docs": 146,
+"ratio": 3.42
+},
+{
+"term": "consequences",
+"ai_docs": 325,
+"human_docs": 52,
+"ratio": 6.2
+},
+{
+"term": "reflects",
+"ai_docs": 289,
+"human_docs": 35,
+"ratio": 8.15
+},
+{
+"term": "a reminder of",
+"ai_docs": 214,
+"human_docs": 5,
+"ratio": 39.0
+},
+{
+"term": "potentially",
+"ai_docs": 406,
+"human_docs": 92,
+"ratio": 4.39
+},
+{
+"term": "mere",
+"ai_docs": 319,
+"human_docs": 51,
+"ratio": 6.2
+},
+{
+"term": "the power of",
+"ai_docs": 332,
+"human_docs": 57,
+"ratio": 5.78
+},
+{
+"term": "highlighting the",
+"ai_docs": 211,
+"human_docs": 5,
+"ratio": 38.45
+},
+{
+"term": "beneath",
+"ai_docs": 385,
+"human_docs": 83,
+"ratio": 4.62
+},
+{
+"term": "societal",
+"ai_docs": 252,
+"human_docs": 21,
+"ratio": 11.74
+},
+{
+"term": "a reminder that",
+"ai_docs": 203,
+"human_docs": 2,
+"ratio": 81.4
+},
+{
+"term": "efficiency",
+"ai_docs": 425,
+"human_docs": 107,
+"ratio": 3.96
+},
+{
+"term": "connection",
+"ai_docs": 476,
+"human_docs": 135,
+"ratio": 3.52
+},
+{
+"term": "crucial for",
+"ai_docs": 240,
+"human_docs": 17,
+"ratio": 13.74
+},
+{
+"term": "particularly in",
+"ai_docs": 252,
+"human_docs": 22,
+"ratio": 11.22
+},
+{
+"term": "merely",
+"ai_docs": 343,
+"human_docs": 64,
+"ratio": 5.33
+},
+{
+"term": "enhanced",
+"ai_docs": 300,
+"human_docs": 44,
+"ratio": 6.75
+},
+{
+"term": "nature of",
+"ai_docs": 410,
+"human_docs": 100,
+"ratio": 4.08
+},
+{
+"term": "shift",
+"ai_docs": 388,
+"human_docs": 88,
+"ratio": 4.39
+},
+{
+"term": "amidst",
+"ai_docs": 230,
+"human_docs": 14,
+"ratio": 15.9
+},
+{
+"term": "maintaining",
+"ai_docs": 327,
+"human_docs": 59,
+"ratio": 5.5
+},
+{
+"term": "path",
+"ai_docs": 522,
+"human_docs": 167,
+"ratio": 3.12
+},
+{
+"term": "the challenges",
+"ai_docs": 254,
+"human_docs": 25,
+"ratio": 9.98
+},
+{
+"term": "chaos",
+"ai_docs": 304,
+"human_docs": 48,
+"ratio": 6.28
+},
+{
+"term": "vast",
+"ai_docs": 388,
+"human_docs": 92,
+"ratio": 4.2
+},
+{
+"term": "solace",
+"ai_docs": 209,
+"human_docs": 8,
+"ratio": 24.65
+},
+{
+"term": "shaping",
+"ai_docs": 218,
+"human_docs": 13,
+"ratio": 16.19
+},
+{
+"term": "well being",
+"ai_docs": 249,
+"human_docs": 25,
+"ratio": 9.78
+},
+{
+"term": "integration",
+"ai_docs": 281,
+"human_docs": 39,
+"ratio": 7.13
+},
+{
+"term": "cultural",
+"ai_docs": 413,
+"human_docs": 107,
+"ratio": 3.85
+},
+{
+"term": "not merely",
+"ai_docs": 193,
+"human_docs": 4,
+"ratio": 43.0
+},
+{
+"term": "pursuit",
+"ai_docs": 289,
+"human_docs": 44,
+"ratio": 6.51
+},
+{
+"term": "blend of",
+"ai_docs": 202,
+"human_docs": 8,
+"ratio": 23.82
+},
+{
+"term": "of hope",
+"ai_docs": 215,
+"human_docs": 13,
+"ratio": 15.96
+},
+{
+"term": "inherent",
+"ai_docs": 257,
+"human_docs": 31,
+"ratio": 8.17
+},
+{
+"term": "growth",
+"ai_docs": 508,
+"human_docs": 167,
+"ratio": 3.04
+},
+{
+"term": "laughter",
+"ai_docs": 270,
+"human_docs": 37,
+"ratio": 7.21
+},
+{
+"term": "weight of",
+"ai_docs": 251,
+"human_docs": 29,
+"ratio": 8.53
+},
+{
+"term": "the article",
+"ai_docs": 292,
+"human_docs": 47,
+"ratio": 6.16
+},
+{
+"term": "remains a",
+"ai_docs": 246,
+"human_docs": 27,
+"ratio": 8.96
+},
+{
+"term": "beacon of",
+"ai_docs": 177,
+"human_docs": 1,
+"ratio": 118.33
+},
+{
+"term": "echoes",
+"ai_docs": 203,
+"human_docs": 10,
+"ratio": 19.38
+},
+{
+"term": "marked",
+"ai_docs": 378,
+"human_docs": 93,
+"ratio": 4.05
+},
+{
+"term": "addressing",
+"ai_docs": 269,
+"human_docs": 38,
+"ratio": 7.0
+},
+{
+"term": "enhances",
+"ai_docs": 211,
+"human_docs": 14,
+"ratio": 14.59
+},
+{
+"term": "valuable",
+"ai_docs": 358,
+"human_docs": 84,
+"ratio": 4.24
+},
+{
+"term": "sparked",
+"ai_docs": 249,
+"human_docs": 30,
+"ratio": 8.18
+},
+{
+"term": "tale of",
+"ai_docs": 224,
+"human_docs": 19,
+"ratio": 11.51
+},
+{
+"term": "safety",
+"ai_docs": 501,
+"human_docs": 166,
+"ratio": 3.01
+},
+{
+"term": "boundaries",
+"ai_docs": 297,
+"human_docs": 52,
+"ratio": 5.67
+},
+{
+"term": "evolving",
+"ai_docs": 246,
+"human_docs": 29,
+"ratio": 8.36
+},
+{
+"term": "to enhance",
+"ai_docs": 259,
+"human_docs": 35,
+"ratio": 7.31
+},
+{
+"term": "the complexities",
+"ai_docs": 172,
+"human_docs": 1,
+"ratio": 115.0
+},
+{
+"term": "influence",
+"ai_docs": 475,
+"human_docs": 153,
+"ratio": 3.1
+},
+{
+"term": "the enduring",
+"ai_docs": 170,
+"human_docs": 0,
+"ratio": 341.0
+},
+{
+"term": "experiences",
+"ai_docs": 400,
+"human_docs": 108,
+"ratio": 3.69
+},
+{
+"term": "findings",
+"ai_docs": 328,
+"human_docs": 70,
+"ratio": 4.66
+},
+{
+"term": "allowing",
+"ai_docs": 467,
+"human_docs": 148,
+"ratio": 3.15
+},
+{
+"term": "emotional",
+"ai_docs": 403,
+"human_docs": 110,
+"ratio": 3.65
+},
+{
+"term": "a critical",
+"ai_docs": 255,
+"human_docs": 34,
+"ratio": 7.41
+},
+{
+"term": "a world",
+"ai_docs": 353,
+"human_docs": 83,
+"ratio": 4.23
+},
+{
+"term": "advancements",
+"ai_docs": 196,
+"human_docs": 9,
+"ratio": 20.68
+},
+{
+"term": "a beacon of",
+"ai_docs": 172,
+"human_docs": 1,
+"ratio": 115.0
+},
+{
+"term": "nuanced",
+"ai_docs": 177,
+"human_docs": 3,
+"ratio": 50.71
+},
+{
+"term": "unexpected",
+"ai_docs": 254,
+"human_docs": 35,
+"ratio": 7.17
+},
+{
+"term": "exploration",
+"ai_docs": 298,
+"human_docs": 56,
+"ratio": 5.28
+},
+{
+"term": "hearts",
+"ai_docs": 291,
+"human_docs": 52,
+"ratio": 5.55
+},
+{
+"term": "a tale",
+"ai_docs": 184,
+"human_docs": 7,
+"ratio": 24.6
+},
+{
+"term": "precision",
+"ai_docs": 281,
+"human_docs": 49,
+"ratio": 5.69
+},
+{
+"term": "highlight",
+"ai_docs": 288,
+"human_docs": 52,
+"ratio": 5.5
+},
+{
+"term": "whisper",
+"ai_docs": 213,
+"human_docs": 18,
+"ratio": 11.54
+},
+{
+"term": "soul",
+"ai_docs": 422,
+"human_docs": 127,
+"ratio": 3.31
+},
+{
+"term": "the abstract",
+"ai_docs": 169,
+"human_docs": 2,
+"ratio": 67.8
+},
+{
+"term": "highlighted",
+"ai_docs": 229,
+"human_docs": 26,
+"ratio": 8.66
+},
+{
+"term": "potential for",
+"ai_docs": 211,
+"human_docs": 18,
+"ratio": 11.43
+},
+{
+"term": "involves",
+"ai_docs": 326,
+"human_docs": 73,
+"ratio": 4.44
+},
+{
+"term": "delicate",
+"ai_docs": 207,
+"human_docs": 17,
+"ratio": 11.86
+},
+{
+"term": "pursuit of",
+"ai_docs": 223,
+"human_docs": 23,
+"ratio": 9.51
+},
+{
+"term": "can lead",
+"ai_docs": 235,
+"human_docs": 29,
+"ratio": 7.98
+},
+{
+"term": "lies in",
+"ai_docs": 234,
+"human_docs": 29,
+"ratio": 7.95
+},
+{
+"term": "the weight of",
+"ai_docs": 212,
+"human_docs": 20,
+"ratio": 10.37
+},
+{
+"term": "silent",
+"ai_docs": 313,
+"human_docs": 68,
+"ratio": 4.58
+},
+{
+"term": "capabilities",
+"ai_docs": 300,
+"human_docs": 63,
+"ratio": 4.73
+},
+{
+"term": "dynamic",
+"ai_docs": 357,
+"human_docs": 92,
+"ratio": 3.86
+},
+{
+"term": "whispered",
+"ai_docs": 204,
+"human_docs": 17,
+"ratio": 11.69
+},
+{
+"term": "insights into",
+"ai_docs": 198,
+"human_docs": 15,
+"ratio": 12.81
+},
+{
+"term": "leveraging",
+"ai_docs": 256,
+"human_docs": 40,
+"ratio": 6.33
+},
+{
+"term": "can lead to",
+"ai_docs": 225,
+"human_docs": 26,
+"ratio": 8.51
+},
+{
+"term": "essence of",
+"ai_docs": 184,
+"human_docs": 10,
+"ratio": 17.57
+},
+{
+"term": "adaptability",
+"ai_docs": 172,
+"human_docs": 5,
+"ratio": 31.36
+},
+{
+"term": "bold",
+"ai_docs": 232,
+"human_docs": 30,
+"ratio": 7.62
+},
+{
+"term": "crafted",
+"ai_docs": 192,
+"human_docs": 13,
+"ratio": 14.26
+},
+{
+"term": "in the realm",
+"ai_docs": 161,
+"human_docs": 1,
+"ratio": 107.67
+},
+{
+"term": "dedication",
+"ai_docs": 215,
+"human_docs": 22,
+"ratio": 9.58
+},
+{
+"term": "heart of",
+"ai_docs": 264,
+"human_docs": 46,
+"ratio": 5.69
+},
+{
+"term": "for instance",
+"ai_docs": 292,
+"human_docs": 60,
+"ratio": 4.83
+},
+{
+"term": "beauty",
+"ai_docs": 391,
+"human_docs": 114,
+"ratio": 3.42
+},
+{
+"term": "this research",
+"ai_docs": 206,
+"human_docs": 19,
+"ratio": 10.59
+},
+{
+"term": "emphasizes",
+"ai_docs": 191,
+"human_docs": 14,
+"ratio": 13.21
+},
+{
+"term": "versatility",
+"ai_docs": 177,
+"human_docs": 9,
+"ratio": 18.68
+},
+{
+"term": "fabric",
+"ai_docs": 192,
+"human_docs": 15,
+"ratio": 12.42
+},
+{
+"term": "remarkable",
+"ai_docs": 259,
+"human_docs": 44,
+"ratio": 5.83
+},
+{
+"term": "dynamics",
+"ai_docs": 265,
+"human_docs": 48,
+"ratio": 5.47
+},
+{
+"term": "effectively",
+"ai_docs": 437,
+"human_docs": 144,
+"ratio": 3.03
+},
+{
+"term": "symbol of",
+"ai_docs": 206,
+"human_docs": 21,
+"ratio": 9.6
+},
+{
+"term": "ensuring that",
+"ai_docs": 187,
+"human_docs": 14,
+"ratio": 12.93
+},
+{
+"term": "reflection",
+"ai_docs": 231,
+"human_docs": 33,
+"ratio": 6.91
+},
+{
+"term": "showcasing",
+"ai_docs": 177,
+"human_docs": 10,
+"ratio": 16.9
+},
+{
+"term": "expectations",
+"ai_docs": 286,
+"human_docs": 60,
+"ratio": 4.74
+},
+{
+"term": "the quiet",
+"ai_docs": 181,
+"human_docs": 11,
+"ratio": 15.78
+},
+{
+"term": "notable",
+"ai_docs": 266,
+"human_docs": 51,
+"ratio": 5.17
+},
+{
+"term": "reliable",
+"ai_docs": 285,
+"human_docs": 60,
+"ratio": 4.72
+},
+{
+"term": "transformative",
+"ai_docs": 160,
+"human_docs": 4,
+"ratio": 35.67
+},
+{
+"term": "lasting",
+"ai_docs": 237,
+"human_docs": 36,
+"ratio": 6.51
+},
+{
+"term": "tool",
+"ai_docs": 428,
+"human_docs": 141,
+"ratio": 3.03
+},
+{
+"term": "deeply",
+"ai_docs": 321,
+"human_docs": 79,
+"ratio": 4.04
+},
+{
+"term": "maintain",
+"ai_docs": 365,
+"human_docs": 104,
+"ratio": 3.5
+},
+{
+"term": "embracing",
+"ai_docs": 179,
+"human_docs": 11,
+"ratio": 15.61
+}
+]
+}

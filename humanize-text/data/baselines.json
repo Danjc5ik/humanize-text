@@ -1,0 +1,566 @@
+{
+"ru": {
+"em_dash": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 4.115,
+"ai_p50": 0.0,
+"human_mean": 5.049,
+"ai_mean": 5.465
+},
+"en_dash_spaced": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 1.076,
+"ai_mean": 1.675
+},
+"hyphen_as_dash": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 9.434,
+"ai_p50": 0.0,
+"human_mean": 7.584,
+"ai_mean": 4.758
+},
+"colon": {
+"human_p25": 0.0,
+"human_p50": 0.998,
+"human_p75": 8.696,
+"ai_p50": 0.0,
+"human_mean": 6.4,
+"ai_mean": 7.223
+},
+"semicolon": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 2.007,
+"ai_mean": 0.704
+},
+"exclamation": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 5.112,
+"ai_p50": 0.0,
+"human_mean": 7.523,
+"ai_mean": 4.037
+},
+"question_mark": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 2.099,
+"ai_mean": 2.467
+},
+"ellipsis_char": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 0.181,
+"ai_mean": 0.106
+},
+"three_dots": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 4.523,
+"ai_mean": 0.653
+},
+"parentheses": {
+"human_p25": 0.0,
+"human_p50": 1.835,
+"human_p75": 10.582,
+"ai_p50": 0.0,
+"human_mean": 8.208,
+"ai_mean": 2.864
+},
+"guillemets": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 4.546,
+"ai_mean": 3.491
+},
+"curly_quotes": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 0.33,
+"ai_mean": 0.232
+},
+"straight_quotes": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 13.328,
+"ai_p50": 0.0,
+"human_mean": 11.522,
+"ai_mean": 8.558
+},
+"curly_apostrophe": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 0.089,
+"ai_mean": 0.046
+},
+"yo_per_1k_cyr": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 2.402,
+"ai_p50": 0.0,
+"human_mean": 1.649,
+"ai_mean": 1.361
+},
+"sent_len_mean": {
+"human_p25": 11.286,
+"human_p50": 14.667,
+"human_p75": 18.691,
+"ai_p50": 15.077,
+"human_mean": 18.337,
+"ai_mean": 17.632
+},
+"sent_len_sd": {
+"human_p25": 5.262,
+"human_p50": 7.225,
+"human_p75": 9.903,
+"ai_p50": 5.104,
+"human_mean": 8.899,
+"ai_mean": 6.563
+},
+"sent_len_cv": {
+"human_p25": 0.408,
+"human_p50": 0.528,
+"human_p75": 0.664,
+"ai_p50": 0.354,
+"human_mean": 0.547,
+"ai_mean": 0.383
+},
+"short_sent_share": {
+"human_p25": 0.0,
+"human_p50": 0.147,
+"human_p75": 0.286,
+"ai_p50": 0.0,
+"human_mean": 0.186,
+"ai_mean": 0.086
+},
+"long_sent_share": {
+"human_p25": 0.0,
+"human_p50": 0.032,
+"human_p75": 0.148,
+"ai_p50": 0.0,
+"human_mean": 0.111,
+"ai_mean": 0.07
+},
+"para_len_cv": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.213,
+"ai_p50": 0.128,
+"human_mean": 0.186,
+"ai_mean": 0.224
+},
+"list_lines_share": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 0.014,
+"ai_mean": 0.035
+},
+"markdown": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 0.009,
+"ai_mean": 0.126
+},
+"emoji": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 0.049,
+"ai_mean": 0.917
+},
+"first_person": {
+"human_p25": 0.0,
+"human_p50": 6.386,
+"human_p75": 25.247,
+"ai_p50": 0.0,
+"human_mean": 17.112,
+"ai_mean": 12.722
+},
+"second_person": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 9.518,
+"ai_p50": 0.0,
+"human_mean": 8.48,
+"ai_mean": 5.016
+},
+"contractions": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 0.0,
+"ai_mean": 0.0
+},
+"nominalizations": {
+"human_p25": 12.605,
+"human_p50": 26.437,
+"human_p75": 46.154,
+"ai_p50": 46.243,
+"human_mean": 32.448,
+"ai_mean": 52.122
+},
+"digits": {
+"human_p25": 0.0,
+"human_p50": 14.493,
+"human_p75": 36.585,
+"ai_p50": 3.824,
+"human_mean": 30.68,
+"ai_mean": 18.855
+},
+"mattr": {
+"human_p25": 0.856,
+"human_p50": 0.885,
+"human_p75": 0.907,
+"ai_p50": 0.888,
+"human_mean": 0.874,
+"ai_mean": 0.875
+},
+"word_len": {
+"human_p25": 5.064,
+"human_p50": 5.598,
+"human_p75": 6.141,
+"ai_p50": 6.024,
+"human_mean": 5.613,
+"ai_mean": 5.986
+},
+"not_x_but_y": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 0.236,
+"ai_mean": 1.061
+},
+"triads": {
+"human_p25": 0.0,
+"human_p50": 2.341,
+"human_p75": 7.998,
+"ai_p50": 5.181,
+"human_mean": 4.78,
+"ai_mean": 6.83
+},
+"starts_with_conj": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.111,
+"ai_p50": 0.0,
+"human_mean": 0.068,
+"ai_mean": 0.041
+},
+"question_sent_share": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 0.018,
+"ai_mean": 0.016
+}
+},
+"eng": {
+"em_dash": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 0.993,
+"ai_mean": 1.857
+},
+"en_dash_spaced": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 0.142,
+"ai_mean": 0.32
+},
+"hyphen_as_dash": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 1.043,
+"ai_mean": 0.658
+},
+"colon": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 4.251,
+"ai_p50": 0.0,
+"human_mean": 3.698,
+"ai_mean": 4.03
+},
+"semicolon": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 1.352,
+"ai_mean": 0.973
+},
+"exclamation": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 1.674,
+"ai_mean": 1.135
+},
+"question_mark": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 1.715,
+"ai_mean": 1.367
+},
+"ellipsis_char": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 0.195,
+"ai_mean": 0.067
+},
+"three_dots": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 0.943,
+"ai_mean": 0.142
+},
+"parentheses": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 8.547,
+"ai_p50": 0.0,
+"human_mean": 5.884,
+"ai_mean": 2.896
+},
+"guillemets": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 0.101,
+"ai_mean": 0.0
+},
+"curly_quotes": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 1.509,
+"ai_mean": 1.479
+},
+"straight_quotes": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 7.678,
+"ai_p50": 0.0,
+"human_mean": 8.754,
+"ai_mean": 6.616
+},
+"curly_apostrophe": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 3.943,
+"ai_mean": 4.543
+},
+"yo_per_1k_cyr": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 0.0,
+"ai_mean": 0.0
+},
+"sent_len_mean": {
+"human_p25": 17.604,
+"human_p50": 21.571,
+"human_p75": 26.8,
+"ai_p50": 22.25,
+"human_mean": 28.576,
+"ai_mean": 26.496
+},
+"sent_len_sd": {
+"human_p25": 6.777,
+"human_p50": 9.192,
+"human_p75": 12.823,
+"ai_p50": 7.338,
+"human_mean": 11.588,
+"ai_mean": 8.714
+},
+"sent_len_cv": {
+"human_p25": 0.344,
+"human_p50": 0.462,
+"human_p75": 0.598,
+"ai_p50": 0.354,
+"human_mean": 0.482,
+"ai_mean": 0.368
+},
+"short_sent_share": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.118,
+"ai_p50": 0.0,
+"human_mean": 0.073,
+"ai_mean": 0.037
+},
+"long_sent_share": {
+"human_p25": 0.077,
+"human_p50": 0.2,
+"human_p75": 0.333,
+"ai_p50": 0.167,
+"human_mean": 0.254,
+"ai_mean": 0.229
+},
+"para_len_cv": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 0.0,
+"ai_mean": 0.055
+},
+"list_lines_share": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 0.005,
+"ai_mean": 0.018
+},
+"markdown": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 0.003,
+"ai_mean": 0.004
+},
+"emoji": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 0.0,
+"ai_mean": 0.093
+},
+"first_person": {
+"human_p25": 0.0,
+"human_p50": 10.417,
+"human_p75": 31.915,
+"ai_p50": 0.0,
+"human_mean": 21.501,
+"ai_mean": 9.6
+},
+"second_person": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 9.852,
+"ai_p50": 0.0,
+"human_mean": 9.3,
+"ai_mean": 4.294
+},
+"contractions": {
+"human_p25": 0.0,
+"human_p50": 9.132,
+"human_p75": 18.229,
+"ai_p50": 11.416,
+"human_mean": 12.245,
+"ai_mean": 15.383
+},
+"nominalizations": {
+"human_p25": 9.009,
+"human_p50": 18.692,
+"human_p75": 36.765,
+"ai_p50": 41.667,
+"human_mean": 26.488,
+"ai_mean": 46.441
+},
+"digits": {
+"human_p25": 0.0,
+"human_p50": 8.547,
+"human_p75": 25.438,
+"ai_p50": 0.0,
+"human_mean": 26.426,
+"ai_mean": 12.684
+},
+"mattr": {
+"human_p25": 0.781,
+"human_p50": 0.81,
+"human_p75": 0.836,
+"ai_p50": 0.84,
+"human_mean": 0.805,
+"ai_mean": 0.837
+},
+"word_len": {
+"human_p25": 4.341,
+"human_p50": 4.69,
+"human_p75": 5.084,
+"ai_p50": 5.22,
+"human_mean": 4.739,
+"ai_mean": 5.262
+},
+"not_x_but_y": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 0.108,
+"ai_mean": 0.557
+},
+"triads": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 4.608,
+"ai_p50": 2.841,
+"human_mean": 2.815,
+"ai_mean": 4.716
+},
+"starts_with_conj": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 0.028,
+"ai_mean": 0.018
+},
+"question_sent_share": {
+"human_p25": 0.0,
+"human_p50": 0.0,
+"human_p75": 0.0,
+"ai_p50": 0.0,
+"human_mean": 0.023,
+"ai_mean": 0.023
+}
+}
+}

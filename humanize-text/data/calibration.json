@@ -1,0 +1,37 @@
+{
+ "binoculars_threshold": {
+  "ru": 0.853,
+  "en": 0.9082
+ },
+ "ru:ru-modernbert": {
+  "auc": 1.0,
+  "tpr@0.5": 1.0,
+  "fpr@0.5": 0.036
+ },
+ "ru:ru-frida": {
+  "auc": 0.982,
+  "tpr@0.5": 1.0,
+  "fpr@0.5": 0.125
+ },
+ "ru:binoculars": {
+  "auc": 0.868,
+  "threshold_fpr5": 0.853,
+  "tpr_at_fpr5": 0.554,
+  "threshold_youden": 0.8958,
+  "tpr_youden": 0.714,
+  "fpr_youden": 0.071
+ },
+ "en:en-desklib": {
+  "auc": 0.948,
+  "tpr@0.5": 0.839,
+  "fpr@0.5": 0.179
+ },
+ "en:binoculars": {
+  "auc": 0.725,
+  "threshold_fpr5": 0.9082,
+  "tpr_at_fpr5": 0.321,
+  "threshold_youden": 0.9762,
+  "tpr_youden": 0.571,
+  "fpr_youden": 0.214
+ }
+}

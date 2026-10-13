@@ -1,0 +1,1926 @@
+{
+"ru": [
+{
+"term": "очень",
+"ai_docs": 797,
+"human_docs": 2345,
+"ratio": 0.34
+},
+{
+"term": "ну",
+"ai_docs": 176,
+"human_docs": 1150,
+"ratio": 0.15
+},
+{
+"term": "нет",
+"ai_docs": 767,
+"human_docs": 2130,
+"ratio": 0.36
+},
+{
+"term": "надо",
+"ai_docs": 169,
+"human_docs": 1088,
+"ratio": 0.16
+},
+{
+"term": "раз",
+"ai_docs": 720,
+"human_docs": 1989,
+"ratio": 0.36
+},
+{
+"term": "сказать",
+"ai_docs": 851,
+"human_docs": 2115,
+"ratio": 0.4
+},
+{
+"term": "там",
+"ai_docs": 578,
+"human_docs": 1636,
+"ratio": 0.35
+},
+{
+"term": "тут",
+"ai_docs": 247,
+"human_docs": 1084,
+"ratio": 0.23
+},
+{
+"term": "да",
+"ai_docs": 458,
+"human_docs": 1440,
+"ratio": 0.32
+},
+{
+"term": "ничего",
+"ai_docs": 262,
+"human_docs": 1064,
+"ratio": 0.25
+},
+{
+"term": "потом",
+"ai_docs": 235,
+"human_docs": 988,
+"ratio": 0.24
+},
+{
+"term": "тоже",
+"ai_docs": 320,
+"human_docs": 1122,
+"ratio": 0.29
+},
+{
+"term": "вообще",
+"ai_docs": 119,
+"human_docs": 754,
+"ratio": 0.16
+},
+{
+"term": "сейчас",
+"ai_docs": 407,
+"human_docs": 1242,
+"ratio": 0.33
+},
+{
+"term": "какой то",
+"ai_docs": 203,
+"human_docs": 835,
+"ratio": 0.24
+},
+{
+"term": "много",
+"ai_docs": 469,
+"human_docs": 1256,
+"ratio": 0.37
+},
+{
+"term": "ни",
+"ai_docs": 470,
+"human_docs": 1253,
+"ratio": 0.38
+},
+{
+"term": "про",
+"ai_docs": 191,
+"human_docs": 758,
+"ratio": 0.25
+},
+{
+"term": "совсем",
+"ai_docs": 145,
+"human_docs": 624,
+"ratio": 0.23
+},
+{
+"term": "хорошо",
+"ai_docs": 263,
+"human_docs": 825,
+"ratio": 0.32
+},
+{
+"term": "у мы",
+"ai_docs": 211,
+"human_docs": 734,
+"ratio": 0.29
+},
+{
+"term": "тот же",
+"ai_docs": 237,
+"human_docs": 781,
+"ratio": 0.3
+},
+{
+"term": "и так",
+"ai_docs": 176,
+"human_docs": 662,
+"ratio": 0.27
+},
+{
+"term": "как то",
+"ai_docs": 59,
+"human_docs": 435,
+"ratio": 0.14
+},
+{
+"term": "таки",
+"ai_docs": 40,
+"human_docs": 383,
+"ratio": 0.11
+},
+{
+"term": "думать",
+"ai_docs": 378,
+"human_docs": 977,
+"ratio": 0.39
+},
+{
+"term": "чуть",
+"ai_docs": 76,
+"human_docs": 454,
+"ratio": 0.17
+},
+{
+"term": "сразу",
+"ai_docs": 337,
+"human_docs": 898,
+"ratio": 0.38
+},
+{
+"term": "почти",
+"ai_docs": 221,
+"human_docs": 704,
+"ratio": 0.31
+},
+{
+"term": "уж",
+"ai_docs": 108,
+"human_docs": 504,
+"ratio": 0.22
+},
+{
+"term": "нибыть",
+"ai_docs": 114,
+"human_docs": 517,
+"ratio": 0.22
+},
+{
+"term": "у я",
+"ai_docs": 258,
+"human_docs": 759,
+"ratio": 0.34
+},
+{
+"term": "конечно",
+"ai_docs": 327,
+"human_docs": 869,
+"ratio": 0.38
+},
+{
+"term": "ходить",
+"ai_docs": 132,
+"human_docs": 543,
+"ratio": 0.24
+},
+{
+"term": "кстати",
+"ai_docs": 41,
+"human_docs": 361,
+"ratio": 0.11
+},
+{
+"term": "да и",
+"ai_docs": 84,
+"human_docs": 446,
+"ratio": 0.19
+},
+{
+"term": "опять",
+"ai_docs": 99,
+"human_docs": 476,
+"ratio": 0.21
+},
+{
+"term": "причём",
+"ai_docs": 30,
+"human_docs": 328,
+"ratio": 0.09
+},
+{
+"term": "при это",
+"ai_docs": 266,
+"human_docs": 756,
+"ratio": 0.35
+},
+{
+"term": "ничего не",
+"ai_docs": 107,
+"human_docs": 477,
+"ratio": 0.23
+},
+{
+"term": "пойти",
+"ai_docs": 214,
+"human_docs": 658,
+"ratio": 0.33
+},
+{
+"term": "получиться",
+"ai_docs": 70,
+"human_docs": 391,
+"ratio": 0.18
+},
+{
+"term": "так к",
+"ai_docs": 11,
+"human_docs": 255,
+"ratio": 0.05
+},
+{
+"term": "то есть",
+"ai_docs": 81,
+"human_docs": 398,
+"ratio": 0.2
+},
+{
+"term": "так же",
+"ai_docs": 64,
+"human_docs": 364,
+"ratio": 0.18
+},
+{
+"term": "всё таки",
+"ai_docs": 35,
+"human_docs": 299,
+"ratio": 0.12
+},
+{
+"term": "ну и",
+"ai_docs": 34,
+"human_docs": 296,
+"ratio": 0.12
+},
+{
+"term": "и на",
+"ai_docs": 223,
+"human_docs": 635,
+"ratio": 0.35
+},
+{
+"term": "посмотреть",
+"ai_docs": 170,
+"human_docs": 547,
+"ratio": 0.31
+},
+{
+"term": "так что",
+"ai_docs": 180,
+"human_docs": 558,
+"ratio": 0.32
+},
+{
+"term": "всякий",
+"ai_docs": 90,
+"human_docs": 400,
+"ratio": 0.23
+},
+{
+"term": "куда",
+"ai_docs": 192,
+"human_docs": 566,
+"ratio": 0.34
+},
+{
+"term": "понравиться",
+"ai_docs": 157,
+"human_docs": 505,
+"ratio": 0.31
+},
+{
+"term": "сильно",
+"ai_docs": 97,
+"human_docs": 396,
+"ratio": 0.25
+},
+{
+"term": "наверное",
+"ai_docs": 45,
+"human_docs": 291,
+"ratio": 0.16
+},
+{
+"term": "немного",
+"ai_docs": 249,
+"human_docs": 644,
+"ratio": 0.39
+},
+{
+"term": "а вот",
+"ai_docs": 66,
+"human_docs": 331,
+"ratio": 0.2
+},
+{
+"term": "не очень",
+"ai_docs": 45,
+"human_docs": 286,
+"ratio": 0.16
+},
+{
+"term": "мало",
+"ai_docs": 106,
+"human_docs": 405,
+"ratio": 0.26
+},
+{
+"term": "хоть",
+"ai_docs": 176,
+"human_docs": 519,
+"ratio": 0.34
+},
+{
+"term": "долго",
+"ai_docs": 136,
+"human_docs": 451,
+"ratio": 0.3
+},
+{
+"term": "и всё",
+"ai_docs": 212,
+"human_docs": 574,
+"ratio": 0.37
+},
+{
+"term": "так быть",
+"ai_docs": 22,
+"human_docs": 230,
+"ratio": 0.1
+},
+{
+"term": "достаточно",
+"ai_docs": 220,
+"human_docs": 584,
+"ratio": 0.38
+},
+{
+"term": "я и",
+"ai_docs": 120,
+"human_docs": 420,
+"ratio": 0.29
+},
+{
+"term": "и по",
+"ai_docs": 65,
+"human_docs": 314,
+"ratio": 0.21
+},
+{
+"term": "тем более",
+"ai_docs": 16,
+"human_docs": 205,
+"ratio": 0.08
+},
+{
+"term": "видимо",
+"ai_docs": 42,
+"human_docs": 264,
+"ratio": 0.16
+},
+{
+"term": "сколько",
+"ai_docs": 150,
+"human_docs": 462,
+"ratio": 0.33
+},
+{
+"term": "а потом",
+"ai_docs": 81,
+"human_docs": 342,
+"ratio": 0.24
+},
+{
+"term": "бывать",
+"ai_docs": 126,
+"human_docs": 417,
+"ratio": 0.3
+},
+{
+"term": "а то",
+"ai_docs": 21,
+"human_docs": 216,
+"ratio": 0.1
+},
+{
+"term": "я в",
+"ai_docs": 178,
+"human_docs": 501,
+"ratio": 0.36
+},
+{
+"term": "и с",
+"ai_docs": 223,
+"human_docs": 571,
+"ratio": 0.39
+},
+{
+"term": "не надо",
+"ai_docs": 25,
+"human_docs": 220,
+"ratio": 0.12
+},
+{
+"term": "а так",
+"ai_docs": 9,
+"human_docs": 180,
+"ratio": 0.05
+},
+{
+"term": "никак",
+"ai_docs": 40,
+"human_docs": 252,
+"ratio": 0.16
+},
+{
+"term": "брать",
+"ai_docs": 147,
+"human_docs": 448,
+"ratio": 0.33
+},
+{
+"term": "вполне",
+"ai_docs": 98,
+"human_docs": 363,
+"ratio": 0.27
+},
+{
+"term": "вроде",
+"ai_docs": 110,
+"human_docs": 381,
+"ratio": 0.29
+},
+{
+"term": "у вы",
+"ai_docs": 171,
+"human_docs": 483,
+"ratio": 0.35
+},
+{
+"term": "в общий",
+"ai_docs": 183,
+"human_docs": 503,
+"ratio": 0.36
+},
+{
+"term": "то не",
+"ai_docs": 47,
+"human_docs": 256,
+"ratio": 0.19
+},
+{
+"term": "практически",
+"ai_docs": 123,
+"human_docs": 394,
+"ratio": 0.31
+},
+{
+"term": "остальной",
+"ai_docs": 175,
+"human_docs": 477,
+"ratio": 0.37
+},
+{
+"term": "просить",
+"ai_docs": 187,
+"human_docs": 496,
+"ratio": 0.38
+},
+{
+"term": "так далее",
+"ai_docs": 102,
+"human_docs": 357,
+"ratio": 0.29
+},
+{
+"term": "ну а",
+"ai_docs": 13,
+"human_docs": 177,
+"ratio": 0.08
+},
+{
+"term": "поставить",
+"ai_docs": 176,
+"human_docs": 475,
+"ratio": 0.37
+},
+{
+"term": "что и",
+"ai_docs": 58,
+"human_docs": 273,
+"ratio": 0.21
+},
+{
+"term": "примерно",
+"ai_docs": 99,
+"human_docs": 347,
+"ratio": 0.29
+},
+{
+"term": "даже не",
+"ai_docs": 108,
+"human_docs": 363,
+"ratio": 0.3
+},
+{
+"term": "собственно",
+"ai_docs": 7,
+"human_docs": 160,
+"ratio": 0.05
+},
+{
+"term": "туда",
+"ai_docs": 159,
+"human_docs": 445,
+"ratio": 0.36
+},
+{
+"term": "фото",
+"ai_docs": 56,
+"human_docs": 265,
+"ratio": 0.21
+},
+{
+"term": "и ещё",
+"ai_docs": 50,
+"human_docs": 255,
+"ratio": 0.2
+},
+{
+"term": "впрочем",
+"ai_docs": 27,
+"human_docs": 206,
+"ratio": 0.13
+},
+{
+"term": "довольно",
+"ai_docs": 117,
+"human_docs": 372,
+"ratio": 0.32
+},
+{
+"term": "ещё и",
+"ai_docs": 45,
+"human_docs": 241,
+"ratio": 0.19
+},
+{
+"term": "р",
+"ai_docs": 38,
+"human_docs": 227,
+"ratio": 0.17
+},
+{
+"term": "положить",
+"ai_docs": 77,
+"human_docs": 301,
+"ratio": 0.26
+},
+{
+"term": "вы не",
+"ai_docs": 149,
+"human_docs": 423,
+"ratio": 0.35
+},
+{
+"term": "в какой",
+"ai_docs": 48,
+"human_docs": 245,
+"ratio": 0.2
+},
+{
+"term": "естественно",
+"ai_docs": 23,
+"human_docs": 193,
+"ratio": 0.12
+},
+{
+"term": "зачем",
+"ai_docs": 142,
+"human_docs": 410,
+"ratio": 0.35
+},
+{
+"term": "в принцип",
+"ai_docs": 3,
+"human_docs": 139,
+"ratio": 0.03
+},
+{
+"term": "чтоб",
+"ai_docs": 141,
+"human_docs": 406,
+"ratio": 0.35
+},
+{
+"term": "плохой",
+"ai_docs": 195,
+"human_docs": 489,
+"ratio": 0.4
+},
+{
+"term": "пол",
+"ai_docs": 130,
+"human_docs": 387,
+"ratio": 0.34
+},
+{
+"term": "входить",
+"ai_docs": 124,
+"human_docs": 375,
+"ratio": 0.33
+},
+{
+"term": "где то",
+"ai_docs": 72,
+"human_docs": 285,
+"ratio": 0.25
+},
+{
+"term": "точно",
+"ai_docs": 135,
+"human_docs": 394,
+"ratio": 0.34
+},
+{
+"term": "что бы",
+"ai_docs": 21,
+"human_docs": 183,
+"ratio": 0.12
+},
+{
+"term": "как раз",
+"ai_docs": 21,
+"human_docs": 184,
+"ratio": 0.12
+},
+{
+"term": "получаться",
+"ai_docs": 51,
+"human_docs": 244,
+"ratio": 0.21
+},
+{
+"term": "купить",
+"ai_docs": 150,
+"human_docs": 415,
+"ratio": 0.36
+},
+{
+"term": "у они",
+"ai_docs": 124,
+"human_docs": 370,
+"ratio": 0.34
+},
+{
+"term": "и очень",
+"ai_docs": 18,
+"human_docs": 172,
+"ratio": 0.11
+},
+{
+"term": "и тут",
+"ai_docs": 37,
+"human_docs": 213,
+"ratio": 0.18
+},
+{
+"term": "я уже",
+"ai_docs": 48,
+"human_docs": 233,
+"ratio": 0.21
+},
+{
+"term": "быть и",
+"ai_docs": 102,
+"human_docs": 329,
+"ratio": 0.31
+},
+{
+"term": "у он",
+"ai_docs": 136,
+"human_docs": 384,
+"ratio": 0.36
+},
+{
+"term": "значит",
+"ai_docs": 175,
+"human_docs": 445,
+"ratio": 0.39
+},
+{
+"term": "что с",
+"ai_docs": 69,
+"human_docs": 269,
+"ratio": 0.26
+},
+{
+"term": "подумать",
+"ai_docs": 135,
+"human_docs": 381,
+"ratio": 0.36
+},
+{
+"term": "p",
+"ai_docs": 36,
+"human_docs": 205,
+"ratio": 0.18
+},
+{
+"term": "я он",
+"ai_docs": 25,
+"human_docs": 183,
+"ratio": 0.14
+},
+{
+"term": "удаться",
+"ai_docs": 170,
+"human_docs": 436,
+"ratio": 0.39
+},
+{
+"term": "http",
+"ai_docs": 35,
+"human_docs": 204,
+"ratio": 0.17
+},
+{
+"term": "о чем",
+"ai_docs": 35,
+"human_docs": 204,
+"ratio": 0.17
+},
+{
+"term": "пояснить",
+"ai_docs": 26,
+"human_docs": 184,
+"ratio": 0.14
+},
+{
+"term": "понятно",
+"ai_docs": 50,
+"human_docs": 233,
+"ratio": 0.22
+},
+{
+"term": "я на",
+"ai_docs": 67,
+"human_docs": 264,
+"ratio": 0.26
+},
+{
+"term": "нравиться",
+"ai_docs": 104,
+"human_docs": 329,
+"ratio": 0.32
+},
+{
+"term": "крайний",
+"ai_docs": 25,
+"human_docs": 180,
+"ratio": 0.14
+},
+{
+"term": "не в",
+"ai_docs": 176,
+"human_docs": 444,
+"ratio": 0.4
+},
+{
+"term": "p s",
+"ai_docs": 12,
+"human_docs": 151,
+"ratio": 0.08
+},
+{
+"term": "code",
+"ai_docs": 26,
+"human_docs": 180,
+"ratio": 0.15
+},
+{
+"term": "читать",
+"ai_docs": 166,
+"human_docs": 424,
+"ratio": 0.39
+},
+{
+"term": "а я",
+"ai_docs": 134,
+"human_docs": 374,
+"ratio": 0.36
+},
+{
+"term": "поехать",
+"ai_docs": 35,
+"human_docs": 200,
+"ratio": 0.18
+},
+{
+"term": "ж",
+"ai_docs": 71,
+"human_docs": 265,
+"ratio": 0.27
+},
+{
+"term": "надо быть",
+"ai_docs": 11,
+"human_docs": 144,
+"ratio": 0.08
+},
+{
+"term": "как я",
+"ai_docs": 107,
+"human_docs": 327,
+"ratio": 0.33
+},
+{
+"term": "декабрь",
+"ai_docs": 155,
+"human_docs": 405,
+"ratio": 0.38
+},
+{
+"term": "попросить",
+"ai_docs": 129,
+"human_docs": 363,
+"ratio": 0.36
+},
+{
+"term": "приходиться",
+"ai_docs": 121,
+"human_docs": 347,
+"ratio": 0.35
+},
+{
+"term": "плохо",
+"ai_docs": 75,
+"human_docs": 271,
+"ratio": 0.28
+},
+{
+"term": "и т п",
+"ai_docs": 2,
+"human_docs": 118,
+"ratio": 0.02
+},
+{
+"term": "так п",
+"ai_docs": 2,
+"human_docs": 118,
+"ratio": 0.02
+},
+{
+"term": "иметься",
+"ai_docs": 59,
+"human_docs": 238,
+"ratio": 0.25
+},
+{
+"term": "почему то",
+"ai_docs": 20,
+"human_docs": 160,
+"ratio": 0.13
+},
+{
+"term": "говорить что",
+"ai_docs": 140,
+"human_docs": 375,
+"ratio": 0.37
+},
+{
+"term": "который в",
+"ai_docs": 96,
+"human_docs": 303,
+"ratio": 0.32
+},
+{
+"term": "скорее",
+"ai_docs": 135,
+"human_docs": 367,
+"ratio": 0.37
+},
+{
+"term": "какой нибыть",
+"ai_docs": 23,
+"human_docs": 165,
+"ratio": 0.14
+},
+{
+"term": "за что",
+"ai_docs": 44,
+"human_docs": 207,
+"ratio": 0.21
+},
+{
+"term": "тут же",
+"ai_docs": 40,
+"human_docs": 199,
+"ratio": 0.2
+},
+{
+"term": "н",
+"ai_docs": 70,
+"human_docs": 256,
+"ratio": 0.27
+},
+{
+"term": "nв",
+"ai_docs": 1,
+"human_docs": 110,
+"ratio": 0.01
+}
+],
+"eng": [
+{
+"term": "because",
+"ai_docs": 494,
+"human_docs": 1784,
+"ratio": 0.28
+},
+{
+"term": "get",
+"ai_docs": 618,
+"human_docs": 1980,
+"ratio": 0.31
+},
+{
+"term": "do",
+"ai_docs": 871,
+"human_docs": 2288,
+"ratio": 0.38
+},
+{
+"term": "i have",
+"ai_docs": 151,
+"human_docs": 854,
+"ratio": 0.18
+},
+{
+"term": "show",
+"ai_docs": 575,
+"human_docs": 1544,
+"ratio": 0.37
+},
+{
+"term": "have to",
+"ai_docs": 134,
+"human_docs": 757,
+"ratio": 0.18
+},
+{
+"term": "going",
+"ai_docs": 226,
+"human_docs": 933,
+"ratio": 0.24
+},
+{
+"term": "know",
+"ai_docs": 503,
+"human_docs": 1383,
+"ratio": 0.36
+},
+{
+"term": "go",
+"ai_docs": 541,
+"human_docs": 1436,
+"ratio": 0.38
+},
+{
+"term": "if you",
+"ai_docs": 347,
+"human_docs": 1110,
+"ratio": 0.31
+},
+{
+"term": "to get",
+"ai_docs": 241,
+"human_docs": 914,
+"ratio": 0.26
+},
+{
+"term": "want",
+"ai_docs": 371,
+"human_docs": 1114,
+"ratio": 0.33
+},
+{
+"term": "to do",
+"ai_docs": 171,
+"human_docs": 750,
+"ratio": 0.23
+},
+{
+"term": "have a",
+"ai_docs": 280,
+"human_docs": 931,
+"ratio": 0.3
+},
+{
+"term": "you are",
+"ai_docs": 137,
+"human_docs": 671,
+"ratio": 0.2
+},
+{
+"term": "think",
+"ai_docs": 396,
+"human_docs": 1095,
+"ratio": 0.36
+},
+{
+"term": "really",
+"ai_docs": 291,
+"human_docs": 913,
+"ratio": 0.32
+},
+{
+"term": "that he",
+"ai_docs": 218,
+"human_docs": 784,
+"ratio": 0.28
+},
+{
+"term": "going to",
+"ai_docs": 100,
+"human_docs": 554,
+"ratio": 0.18
+},
+{
+"term": "there is",
+"ai_docs": 249,
+"human_docs": 821,
+"ratio": 0.3
+},
+{
+"term": "am",
+"ai_docs": 255,
+"human_docs": 834,
+"ratio": 0.31
+},
+{
+"term": "want to",
+"ai_docs": 221,
+"human_docs": 776,
+"ratio": 0.29
+},
+{
+"term": "he is",
+"ai_docs": 176,
+"human_docs": 693,
+"ratio": 0.25
+},
+{
+"term": "you have",
+"ai_docs": 140,
+"human_docs": 612,
+"ratio": 0.23
+},
+{
+"term": "as well",
+"ai_docs": 288,
+"human_docs": 865,
+"ratio": 0.33
+},
+{
+"term": "say",
+"ai_docs": 379,
+"human_docs": 999,
+"ratio": 0.38
+},
+{
+"term": "able",
+"ai_docs": 217,
+"human_docs": 734,
+"ratio": 0.3
+},
+{
+"term": "able to",
+"ai_docs": 213,
+"human_docs": 717,
+"ratio": 0.3
+},
+{
+"term": "all the",
+"ai_docs": 335,
+"human_docs": 904,
+"ratio": 0.37
+},
+{
+"term": "goes",
+"ai_docs": 133,
+"human_docs": 565,
+"ratio": 0.24
+},
+{
+"term": "put",
+"ai_docs": 269,
+"human_docs": 792,
+"ratio": 0.34
+},
+{
+"term": "in order",
+"ai_docs": 54,
+"human_docs": 392,
+"ratio": 0.14
+},
+{
+"term": "i am",
+"ai_docs": 193,
+"human_docs": 652,
+"ratio": 0.3
+},
+{
+"term": "i think",
+"ai_docs": 91,
+"human_docs": 462,
+"ratio": 0.2
+},
+{
+"term": "in order to",
+"ai_docs": 42,
+"human_docs": 353,
+"ratio": 0.12
+},
+{
+"term": "all of",
+"ai_docs": 91,
+"human_docs": 455,
+"ratio": 0.2
+},
+{
+"term": "to go",
+"ai_docs": 114,
+"human_docs": 491,
+"ratio": 0.23
+},
+{
+"term": "that i",
+"ai_docs": 128,
+"human_docs": 513,
+"ratio": 0.25
+},
+{
+"term": "order to",
+"ai_docs": 53,
+"human_docs": 363,
+"ratio": 0.15
+},
+{
+"term": "i don't",
+"ai_docs": 46,
+"human_docs": 345,
+"ratio": 0.13
+},
+{
+"term": "to have",
+"ai_docs": 303,
+"human_docs": 794,
+"ratio": 0.38
+},
+{
+"term": "don't",
+"ai_docs": 343,
+"human_docs": 855,
+"ratio": 0.4
+},
+{
+"term": "there are",
+"ai_docs": 256,
+"human_docs": 722,
+"ratio": 0.36
+},
+{
+"term": "give",
+"ai_docs": 317,
+"human_docs": 815,
+"ratio": 0.39
+},
+{
+"term": "i would",
+"ai_docs": 100,
+"human_docs": 445,
+"ratio": 0.23
+},
+{
+"term": "a lot",
+"ai_docs": 158,
+"human_docs": 541,
+"ratio": 0.29
+},
+{
+"term": "that you",
+"ai_docs": 108,
+"human_docs": 447,
+"ratio": 0.24
+},
+{
+"term": "but i",
+"ai_docs": 151,
+"human_docs": 520,
+"ratio": 0.29
+},
+{
+"term": "lot",
+"ai_docs": 196,
+"human_docs": 596,
+"ratio": 0.33
+},
+{
+"term": "i was",
+"ai_docs": 261,
+"human_docs": 690,
+"ratio": 0.38
+},
+{
+"term": "you will",
+"ai_docs": 85,
+"human_docs": 389,
+"ratio": 0.22
+},
+{
+"term": "a very",
+"ai_docs": 48,
+"human_docs": 313,
+"ratio": 0.15
+},
+{
+"term": "getting",
+"ai_docs": 182,
+"human_docs": 558,
+"ratio": 0.33
+},
+{
+"term": "most of",
+"ai_docs": 82,
+"human_docs": 383,
+"ratio": 0.22
+},
+{
+"term": "of them",
+"ai_docs": 114,
+"human_docs": 436,
+"ratio": 0.26
+},
+{
+"term": "anything",
+"ai_docs": 164,
+"human_docs": 520,
+"ratio": 0.32
+},
+{
+"term": "when he",
+"ai_docs": 151,
+"human_docs": 497,
+"ratio": 0.3
+},
+{
+"term": "because of",
+"ai_docs": 98,
+"human_docs": 401,
+"ratio": 0.25
+},
+{
+"term": "as well as",
+"ai_docs": 223,
+"human_docs": 603,
+"ratio": 0.37
+},
+{
+"term": "well as",
+"ai_docs": 225,
+"human_docs": 607,
+"ratio": 0.37
+},
+{
+"term": "she is",
+"ai_docs": 90,
+"human_docs": 373,
+"ratio": 0.24
+},
+{
+"term": "went",
+"ai_docs": 201,
+"human_docs": 560,
+"ratio": 0.36
+},
+{
+"term": "try",
+"ai_docs": 214,
+"human_docs": 578,
+"ratio": 0.37
+},
+{
+"term": "probably",
+"ai_docs": 75,
+"human_docs": 343,
+"ratio": 0.22
+},
+{
+"term": "i know",
+"ai_docs": 74,
+"human_docs": 336,
+"ratio": 0.22
+},
+{
+"term": "gets",
+"ai_docs": 130,
+"human_docs": 437,
+"ratio": 0.3
+},
+{
+"term": "so i",
+"ai_docs": 79,
+"human_docs": 340,
+"ratio": 0.23
+},
+{
+"term": "we have",
+"ai_docs": 129,
+"human_docs": 428,
+"ratio": 0.3
+},
+{
+"term": "did not",
+"ai_docs": 178,
+"human_docs": 508,
+"ratio": 0.35
+},
+{
+"term": "who is",
+"ai_docs": 127,
+"human_docs": 421,
+"ratio": 0.3
+},
+{
+"term": "when i",
+"ai_docs": 150,
+"human_docs": 459,
+"ratio": 0.33
+},
+{
+"term": "some of",
+"ai_docs": 140,
+"human_docs": 438,
+"ratio": 0.32
+},
+{
+"term": "and is",
+"ai_docs": 217,
+"human_docs": 554,
+"ratio": 0.39
+},
+{
+"term": "a lot of",
+"ai_docs": 104,
+"human_docs": 370,
+"ratio": 0.28
+},
+{
+"term": "lot of",
+"ai_docs": 112,
+"human_docs": 384,
+"ratio": 0.29
+},
+{
+"term": "saying",
+"ai_docs": 151,
+"human_docs": 446,
+"ratio": 0.34
+},
+{
+"term": "you want",
+"ai_docs": 78,
+"human_docs": 322,
+"ratio": 0.24
+},
+{
+"term": "wants",
+"ai_docs": 92,
+"human_docs": 347,
+"ratio": 0.27
+},
+{
+"term": "doing",
+"ai_docs": 187,
+"human_docs": 502,
+"ratio": 0.37
+},
+{
+"term": "done",
+"ai_docs": 211,
+"human_docs": 538,
+"ratio": 0.39
+},
+{
+"term": "asks",
+"ai_docs": 36,
+"human_docs": 233,
+"ratio": 0.16
+},
+{
+"term": "like to",
+"ai_docs": 48,
+"human_docs": 258,
+"ratio": 0.19
+},
+{
+"term": "ni",
+"ai_docs": 3,
+"human_docs": 153,
+"ratio": 0.02
+},
+{
+"term": "he has",
+"ai_docs": 127,
+"human_docs": 398,
+"ratio": 0.32
+},
+{
+"term": "wanted",
+"ai_docs": 127,
+"human_docs": 399,
+"ratio": 0.32
+},
+{
+"term": "bad",
+"ai_docs": 152,
+"human_docs": 440,
+"ratio": 0.35
+},
+{
+"term": "go to",
+"ai_docs": 94,
+"human_docs": 341,
+"ratio": 0.28
+},
+{
+"term": "i had",
+"ai_docs": 124,
+"human_docs": 389,
+"ratio": 0.32
+},
+{
+"term": "it will",
+"ai_docs": 137,
+"human_docs": 408,
+"ratio": 0.34
+},
+{
+"term": "i do",
+"ai_docs": 54,
+"human_docs": 263,
+"ratio": 0.21
+},
+{
+"term": "we show",
+"ai_docs": 16,
+"human_docs": 181,
+"ratio": 0.09
+},
+{
+"term": "so that",
+"ai_docs": 58,
+"human_docs": 270,
+"ratio": 0.22
+},
+{
+"term": "propose a",
+"ai_docs": 90,
+"human_docs": 330,
+"ratio": 0.27
+},
+{
+"term": "a number of",
+"ai_docs": 28,
+"human_docs": 208,
+"ratio": 0.14
+},
+{
+"term": "is very",
+"ai_docs": 20,
+"human_docs": 191,
+"ratio": 0.11
+},
+{
+"term": "that she",
+"ai_docs": 90,
+"human_docs": 327,
+"ratio": 0.28
+},
+{
+"term": "to say",
+"ai_docs": 75,
+"human_docs": 299,
+"ratio": 0.25
+},
+{
+"term": "out of the",
+"ai_docs": 112,
+"human_docs": 365,
+"ratio": 0.31
+},
+{
+"term": "they have",
+"ai_docs": 132,
+"human_docs": 399,
+"ratio": 0.33
+},
+{
+"term": "happy",
+"ai_docs": 126,
+"human_docs": 384,
+"ratio": 0.33
+},
+{
+"term": "in which",
+"ai_docs": 152,
+"human_docs": 428,
+"ratio": 0.36
+},
+{
+"term": "please",
+"ai_docs": 78,
+"human_docs": 301,
+"ratio": 0.26
+},
+{
+"term": "said that",
+"ai_docs": 43,
+"human_docs": 234,
+"ratio": 0.19
+},
+{
+"term": "if you are",
+"ai_docs": 39,
+"human_docs": 224,
+"ratio": 0.18
+},
+{
+"term": "try to",
+"ai_docs": 78,
+"human_docs": 298,
+"ratio": 0.26
+},
+{
+"term": "https",
+"ai_docs": 53,
+"human_docs": 250,
+"ratio": 0.21
+},
+{
+"term": "a number",
+"ai_docs": 42,
+"human_docs": 227,
+"ratio": 0.19
+},
+{
+"term": "we present",
+"ai_docs": 24,
+"human_docs": 187,
+"ratio": 0.13
+},
+{
+"term": "and was",
+"ai_docs": 130,
+"human_docs": 382,
+"ratio": 0.34
+},
+{
+"term": "have the",
+"ai_docs": 122,
+"human_docs": 369,
+"ratio": 0.33
+},
+{
+"term": "couple",
+"ai_docs": 118,
+"human_docs": 363,
+"ratio": 0.33
+},
+{
+"term": "to know",
+"ai_docs": 76,
+"human_docs": 288,
+"ratio": 0.27
+},
+{
+"term": "most of the",
+"ai_docs": 35,
+"human_docs": 208,
+"ratio": 0.17
+},
+{
+"term": "i will",
+"ai_docs": 62,
+"human_docs": 260,
+"ratio": 0.24
+},
+{
+"term": "a little",
+"ai_docs": 152,
+"human_docs": 412,
+"ratio": 0.37
+},
+{
+"term": "scroll down",
+"ai_docs": 33,
+"human_docs": 201,
+"ratio": 0.17
+},
+{
+"term": "to me",
+"ai_docs": 86,
+"human_docs": 301,
+"ratio": 0.29
+},
+{
+"term": "because i",
+"ai_docs": 20,
+"human_docs": 172,
+"ratio": 0.12
+},
+{
+"term": "kill",
+"ai_docs": 74,
+"human_docs": 277,
+"ratio": 0.27
+},
+{
+"term": "would have",
+"ai_docs": 116,
+"human_docs": 347,
+"ratio": 0.34
+},
+{
+"term": "get a",
+"ai_docs": 71,
+"human_docs": 270,
+"ratio": 0.26
+},
+{
+"term": "tries",
+"ai_docs": 55,
+"human_docs": 242,
+"ratio": 0.23
+},
+{
+"term": "the following",
+"ai_docs": 97,
+"human_docs": 316,
+"ratio": 0.31
+},
+{
+"term": "buy",
+"ai_docs": 108,
+"human_docs": 333,
+"ratio": 0.33
+},
+{
+"term": "for me",
+"ai_docs": 67,
+"human_docs": 261,
+"ratio": 0.26
+},
+{
+"term": "all of the",
+"ai_docs": 8,
+"human_docs": 137,
+"ratio": 0.06
+},
+{
+"term": "be able",
+"ai_docs": 70,
+"human_docs": 266,
+"ratio": 0.26
+},
+{
+"term": "you have to",
+"ai_docs": 22,
+"human_docs": 169,
+"ratio": 0.13
+},
+{
+"term": "be able to",
+"ai_docs": 70,
+"human_docs": 264,
+"ratio": 0.27
+},
+{
+"term": "nif",
+"ai_docs": 0,
+"human_docs": 114,
+"ratio": 0.0
+},
+{
+"term": "tries to",
+"ai_docs": 48,
+"human_docs": 223,
+"ratio": 0.22
+},
+{
+"term": "if i",
+"ai_docs": 67,
+"human_docs": 258,
+"ratio": 0.26
+},
+{
+"term": "n ni",
+"ai_docs": 0,
+"human_docs": 111,
+"ratio": 0.0
+},
+{
+"term": "whom",
+"ai_docs": 77,
+"human_docs": 274,
+"ratio": 0.28
+},
+{
+"term": "there is no",
+"ai_docs": 50,
+"human_docs": 224,
+"ratio": 0.22
+},
+{
+"term": "i can",
+"ai_docs": 131,
+"human_docs": 364,
+"ratio": 0.36
+},
+{
+"term": "you want to",
+"ai_docs": 43,
+"human_docs": 208,
+"ratio": 0.21
+},
+{
+"term": "www",
+"ai_docs": 35,
+"human_docs": 193,
+"ratio": 0.18
+},
+{
+"term": "have no",
+"ai_docs": 22,
+"human_docs": 164,
+"ratio": 0.14
+},
+{
+"term": "you would",
+"ai_docs": 19,
+"human_docs": 158,
+"ratio": 0.12
+},
+{
+"term": "asked",
+"ai_docs": 158,
+"human_docs": 402,
+"ratio": 0.39
+},
+{
+"term": "what i",
+"ai_docs": 86,
+"human_docs": 284,
+"ratio": 0.3
+},
+{
+"term": "is in",
+"ai_docs": 144,
+"human_docs": 379,
+"ratio": 0.38
+},
+{
+"term": "and also",
+"ai_docs": 27,
+"human_docs": 174,
+"ratio": 0.16
+},
+{
+"term": "photo by",
+"ai_docs": 29,
+"human_docs": 178,
+"ratio": 0.17
+},
+{
+"term": "to work",
+"ai_docs": 132,
+"human_docs": 359,
+"ratio": 0.37
+},
+{
+"term": "and you",
+"ai_docs": 92,
+"human_docs": 294,
+"ratio": 0.31
+},
+{
+"term": "goes to",
+"ai_docs": 23,
+"human_docs": 163,
+"ratio": 0.14
+},
+{
+"term": "you do",
+"ai_docs": 42,
+"human_docs": 201,
+"ratio": 0.21
+},
+{
+"term": "photo",
+"ai_docs": 120,
+"human_docs": 338,
+"ratio": 0.36
+},
+{
+"term": "a couple",
+"ai_docs": 42,
+"human_docs": 202,
+"ratio": 0.21
+},
+{
+"term": "reason",
+"ai_docs": 157,
+"human_docs": 395,
+"ratio": 0.4
+},
+{
+"term": "girl",
+"ai_docs": 135,
+"human_docs": 358,
+"ratio": 0.38
+},
+{
+"term": "wants to",
+"ai_docs": 57,
+"human_docs": 227,
+"ratio": 0.25
+},
+{
+"term": "wrote",
+"ai_docs": 81,
+"human_docs": 270,
+"ratio": 0.3
+},
+{
+"term": "died",
+"ai_docs": 130,
+"human_docs": 352,
+"ratio": 0.37
+},
+{
+"term": "pretty",
+"ai_docs": 90,
+"human_docs": 286,
+"ratio": 0.32
+},
+{
+"term": "because he",
+"ai_docs": 22,
+"human_docs": 156,
+"ratio": 0.14
+},
+{
+"term": "get the",
+"ai_docs": 77,
+"human_docs": 260,
+"ratio": 0.3
+},
+{
+"term": "scroll",
+"ai_docs": 56,
+"human_docs": 223,
+"ratio": 0.25
+}
+]
+}

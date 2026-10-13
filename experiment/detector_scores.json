@@ -1,0 +1,173 @@
+[
+ {
+  "variant": "original",
+  "file": "01_ru_article_GigaChat-Max.txt",
+  "lang": "ru",
+  "words": 234,
+  "ru-modernbert": 1.0,
+  "ru-frida": 1.0,
+  "binoculars": 0.9206,
+  "binoculars_says_ai": false
+ },
+ {
+  "variant": "original",
+  "file": "02_ru_review_YandexGPT-5-Lite-8B-instruct.txt",
+  "lang": "ru",
+  "words": 224,
+  "ru-modernbert": 1.0,
+  "ru-frida": 1.0,
+  "binoculars": 0.8777,
+  "binoculars_says_ai": false
+ },
+ {
+  "variant": "original",
+  "file": "03_ru_article_YandexGPT-5-Lite-8B-instruct.txt",
+  "lang": "ru",
+  "words": 276,
+  "ru-modernbert": 0.499,
+  "ru-frida": 0.989,
+  "binoculars": 0.9538,
+  "binoculars_says_ai": false
+ },
+ {
+  "variant": "original",
+  "file": "04_en_article_gpt-4.1-2025-04-14.txt",
+  "lang": "en",
+  "words": 215,
+  "en-desklib": 1.0,
+  "binoculars": 1.0257,
+  "binoculars_says_ai": false
+ },
+ {
+  "variant": "original",
+  "file": "05_en_review_gemini-2.5-flash.txt",
+  "lang": "en",
+  "words": 213,
+  "en-desklib": 0.988,
+  "binoculars": 1.0075,
+  "binoculars_says_ai": false
+ },
+ {
+  "variant": "original",
+  "file": "06_en_news_gemini-2.5-flash.txt",
+  "lang": "en",
+  "words": 242,
+  "en-desklib": 1.0,
+  "binoculars": 1.0634,
+  "binoculars_says_ai": false
+ },
+ {
+  "variant": "cosmetic",
+  "file": "01_ru_article_GigaChat-Max.txt",
+  "lang": "ru",
+  "words": 225,
+  "ru-modernbert": 1.0,
+  "ru-frida": 1.0,
+  "binoculars": 0.8902,
+  "binoculars_says_ai": false
+ },
+ {
+  "variant": "cosmetic",
+  "file": "02_ru_review_YandexGPT-5-Lite-8B-instruct.txt",
+  "lang": "ru",
+  "words": 218,
+  "ru-modernbert": 1.0,
+  "ru-frida": 1.0,
+  "binoculars": 0.8851,
+  "binoculars_says_ai": false
+ },
+ {
+  "variant": "cosmetic",
+  "file": "03_ru_article_YandexGPT-5-Lite-8B-instruct.txt",
+  "lang": "ru",
+  "words": 274,
+  "ru-modernbert": 0.469,
+  "ru-frida": 0.99,
+  "binoculars": 0.9487,
+  "binoculars_says_ai": false
+ },
+ {
+  "variant": "cosmetic",
+  "file": "04_en_article_gpt-4.1-2025-04-14.txt",
+  "lang": "en",
+  "words": 216,
+  "en-desklib": 1.0,
+  "binoculars": 0.9928,
+  "binoculars_says_ai": false
+ },
+ {
+  "variant": "cosmetic",
+  "file": "05_en_review_gemini-2.5-flash.txt",
+  "lang": "en",
+  "words": 213,
+  "en-desklib": 0.962,
+  "binoculars": 1.0149,
+  "binoculars_says_ai": false
+ },
+ {
+  "variant": "cosmetic",
+  "file": "06_en_news_gemini-2.5-flash.txt",
+  "lang": "en",
+  "words": 242,
+  "en-desklib": 1.0,
+  "binoculars": 1.0561,
+  "binoculars_says_ai": false
+ },
+ {
+  "variant": "skill",
+  "file": "01_ru_article_GigaChat-Max.txt",
+  "lang": "ru",
+  "words": 207,
+  "ru-modernbert": 0.075,
+  "ru-frida": 0.002,
+  "binoculars": 0.96,
+  "binoculars_says_ai": false
+ },
+ {
+  "variant": "skill",
+  "file": "02_ru_review_YandexGPT-5-Lite-8B-instruct.txt",
+  "lang": "ru",
+  "words": 161,
+  "ru-modernbert": 0.018,
+  "ru-frida": 0.006,
+  "binoculars": 0.9345,
+  "binoculars_says_ai": false
+ },
+ {
+  "variant": "skill",
+  "file": "03_ru_article_YandexGPT-5-Lite-8B-instruct.txt",
+  "lang": "ru",
+  "words": 209,
+  "ru-modernbert": 0.005,
+  "ru-frida": 0.002,
+  "binoculars": 1.0465,
+  "binoculars_says_ai": false
+ },
+ {
+  "variant": "skill",
+  "file": "04_en_article_gpt-4.1-2025-04-14.txt",
+  "lang": "en",
+  "words": 245,
+  "en-desklib": 0.291,
+  "binoculars": 1.0506,
+  "binoculars_says_ai": false
+ },
+ {
+  "variant": "skill",
+  "file": "05_en_review_gemini-2.5-flash.txt",
+  "lang": "en",
+  "words": 160,
+  "en-desklib": 0.297,
+  "binoculars": 0.9988,
+  "binoculars_says_ai": false
+ },
+ {
+  "variant": "skill",
+  "file": "06_en_news_gemini-2.5-flash.txt",
+  "lang": "en",
+  "words": 211,
+  "en-desklib": 0.087,
+  "binoculars": 1.0227,
+  "binoculars_says_ai": false
+ }
+]
